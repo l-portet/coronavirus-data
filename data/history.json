@@ -1,38 +1,38 @@
 [
   {
     "id": "20200316",
-    "createdAt": "2020-03-16T01:00:02.189Z",
-    "infected": 168834,
+    "createdAt": "2020-03-16T01:30:02.155Z",
+    "infected": 168854,
     "dead": 6459,
     "recovered": 76439,
     "hide": false,
-    "sick": 85936
+    "sick": 85956
   },
   {
+    "dead": 6458,
+    "id": "20200315",
     "createdAt": "2020-03-15T23:55:07.136Z",
     "hide": false,
     "infected": 168628,
     "recovered": 76418,
-    "sick": 85752,
-    "dead": 6458,
-    "id": "20200315"
+    "sick": 85752
   },
   {
-    "sick": 75788,
     "dead": 5784,
     "id": "20200314",
     "createdAt": "2020-03-14T23:55:04.942Z",
     "hide": false,
     "infected": 155857,
-    "recovered": 74285
+    "recovered": 74285,
+    "sick": 75788
   },
   {
-    "infected": 144730,
-    "recovered": 69586,
     "dead": 5385,
     "id": "20200313",
     "createdAt": "2020-03-13T23:55:06.728Z",
-    "hide": false
+    "hide": false,
+    "infected": 144730,
+    "recovered": 69586
   },
   {
     "recovered": 68881,
@@ -51,28 +51,28 @@
     "recovered": 68284
   },
   {
+    "recovered": 66621,
     "dead": 4296,
     "id": "20200310",
     "createdAt": "2020-03-10T08:15:12.726Z",
     "hide": false,
-    "infected": 118948,
-    "recovered": 66621
+    "infected": 118948
   },
   {
-    "hide": false,
-    "infected": 114381,
-    "recovered": 64056,
     "dead": 4025,
     "id": "20200309",
-    "createdAt": "2020-03-09T00:22:53.583Z"
+    "createdAt": "2020-03-09T00:22:53.583Z",
+    "hide": false,
+    "infected": 114381,
+    "recovered": 64056
   },
   {
-    "recovered": 62278,
     "dead": 3827,
     "id": "20200308",
     "createdAt": "2020-03-07T19:29:13.724Z",
     "hide": false,
-    "infected": 109991
+    "infected": 109991,
+    "recovered": 62278
   },
   {
     "dead": 3599,
@@ -99,28 +99,28 @@
     "id": "20200305"
   },
   {
+    "recovered": 53524,
     "dead": 3285,
     "id": "20200304",
     "createdAt": "2020-03-04T00:29:38.820Z",
     "hide": false,
-    "infected": 95314,
-    "recovered": 53524
+    "infected": 95314
   },
   {
+    "recovered": 50944,
     "dead": 3202,
     "id": "20200303",
     "createdAt": "2020-03-03T10:27:39.796Z",
     "hide": false,
-    "infected": 93016,
-    "recovered": 50944
+    "infected": 93016
   },
   {
-    "infected": 90443,
-    "recovered": 48108,
     "dead": 3117,
     "id": "20200302",
     "createdAt": "2020-03-01T16:25:09.242Z",
-    "hide": false
+    "hide": false,
+    "infected": 90443,
+    "recovered": 48108
   },
   {
     "infected": 88585,
@@ -131,12 +131,12 @@
     "hide": false
   },
   {
+    "hide": false,
+    "infected": 86605,
     "recovered": 42330,
     "dead": 2977,
     "id": "20200229",
-    "createdAt": "2020-02-29T04:39:29.343Z",
-    "hide": false,
-    "infected": 86605
+    "createdAt": "2020-02-29T04:39:29.343Z"
   },
   {
     "dead": 2923,
@@ -155,12 +155,12 @@
     "recovered": 36520
   },
   {
+    "dead": 2800,
+    "id": "20200226",
     "createdAt": "2020-02-26T01:53:49.918Z",
     "hide": false,
     "infected": 81820,
-    "recovered": 32805,
-    "dead": 2800,
-    "id": "20200226"
+    "recovered": 32805
   },
   {
     "dead": 2763,
@@ -179,28 +179,28 @@
     "createdAt": "2020-02-24T02:20:33.193Z"
   },
   {
+    "createdAt": "2020-02-23T03:05:28.904Z",
     "hide": false,
     "infected": 79205,
     "recovered": 24991,
     "dead": 2618,
-    "id": "20200223",
-    "createdAt": "2020-02-23T03:05:28.904Z"
+    "id": "20200223"
   },
   {
-    "dead": 2460,
-    "id": "20200222",
-    "createdAt": "2020-02-22T02:23:31.057Z",
     "hide": false,
     "infected": 78651,
-    "recovered": 22650
+    "recovered": 22650,
+    "dead": 2460,
+    "id": "20200222",
+    "createdAt": "2020-02-22T02:23:31.057Z"
   },
   {
-    "hide": false,
-    "infected": 76775,
-    "recovered": 20895,
     "dead": 2360,
     "id": "20200221",
-    "createdAt": "2020-02-21T01:36:42.074Z"
+    "createdAt": "2020-02-21T01:36:42.074Z",
+    "hide": false,
+    "infected": 76775,
+    "recovered": 20895
   },
   {
     "dead": 2247,
@@ -243,12 +243,12 @@
     "recovered": 10973
   },
   {
-    "hide": false,
-    "infected": 69197,
-    "recovered": 9538,
     "dead": 1669,
     "id": "20200215",
-    "createdAt": "2020-02-15T00:20:49.491Z"
+    "createdAt": "2020-02-15T00:20:49.491Z",
+    "hide": false,
+    "infected": 69197,
+    "recovered": 9538
   },
   {
     "hide": false,
@@ -259,12 +259,12 @@
     "createdAt": "2020-02-14T00:24:59.937Z"
   },
   {
-    "hide": false,
-    "infected": 64438,
-    "recovered": 6808,
     "dead": 1383,
     "id": "20200213",
-    "createdAt": "2020-02-13T00:05:48.252Z"
+    "createdAt": "2020-02-13T00:05:48.252Z",
+    "hide": false,
+    "infected": 64438,
+    "recovered": 6808
   },
   {
     "dead": 1261,
@@ -283,60 +283,60 @@
     "recovered": 4803
   },
   {
-    "dead": 1018,
     "id": "20200210",
     "createdAt": "2020-02-10T01:23:36.070Z",
     "hide": false,
     "infected": 43099,
-    "recovered": 4043
+    "recovered": 4043,
+    "dead": 1018
   },
   {
+    "dead": 910,
     "id": "20200209",
     "createdAt": "2020-02-09T11:41:47.481Z",
     "hide": false,
     "infected": 40553,
-    "recovered": 3323,
-    "dead": 910
+    "recovered": 3323
   },
   {
+    "dead": 813,
+    "id": "20200208",
     "createdAt": "2020-02-08T23:03:26.229Z",
     "hide": false,
     "infected": 37552,
-    "recovered": 2684,
-    "dead": 813,
-    "id": "20200208"
+    "recovered": 2684
   },
   {
+    "recovered": 2083,
     "dead": 724,
     "id": "20200207",
     "createdAt": "2020-02-07T14:34:33.389Z",
     "hide": false,
-    "infected": 34876,
-    "recovered": 2083
+    "infected": 34876
   },
   {
-    "dead": 638,
     "id": "20200206",
     "createdAt": "2020-02-06T23:06:37.334Z",
     "hide": false,
     "infected": 31439,
-    "recovered": 1562
+    "recovered": 1562,
+    "dead": 638
   },
   {
-    "dead": 565,
-    "id": "20200205",
-    "createdAt": "2020-02-05T10:43:58.748Z",
     "hide": false,
     "infected": 28266,
-    "recovered": 1173
+    "recovered": 1173,
+    "dead": 565,
+    "id": "20200205",
+    "createdAt": "2020-02-05T10:43:58.748Z"
   },
   {
-    "dead": 492,
-    "id": "20200204",
-    "createdAt": "2020-02-04T23:57:17.699Z",
     "hide": false,
     "infected": 24545,
-    "recovered": 907
+    "recovered": 907,
+    "dead": 492,
+    "id": "20200204",
+    "createdAt": "2020-02-04T23:57:17.699Z"
   },
   {
     "dead": 426,
@@ -363,12 +363,12 @@
     "recovered": 287
   },
   {
-    "recovered": 187,
     "dead": 259,
     "id": "20200131",
     "createdAt": "2020-01-30T10:47:07.589Z",
     "hide": false,
-    "infected": 11950
+    "infected": 11950,
+    "recovered": 187
   },
   {
     "dead": 213,
@@ -387,20 +387,20 @@
     "recovered": 110
   },
   {
-    "hide": false,
-    "infected": 4581,
-    "recovered": 54,
     "dead": 132,
     "id": "20200128",
-    "createdAt": "2020-01-28T10:47:07.589Z"
+    "createdAt": "2020-01-28T10:47:07.589Z",
+    "hide": false,
+    "infected": 4581,
+    "recovered": 54
   },
   {
-    "hide": false,
-    "infected": 2800,
-    "recovered": 49,
     "dead": 106,
     "id": "20200127",
-    "createdAt": "2020-01-27T10:47:07.589Z"
+    "createdAt": "2020-01-27T10:47:07.589Z",
+    "hide": false,
+    "infected": 2800,
+    "recovered": 49
   },
   {
     "dead": 80,
