@@ -1,7 +1,5 @@
 [
   {
-    "lastUpdated": "2020-03-27T05:46:02.121Z",
-    "dead": 83,
     "id": "0GJcws44NSPsDHAuxJhW",
     "infected": 1310,
     "recovered": 58,
@@ -10,9 +8,14 @@
     "longitude": 14.333333,
     "name": "Campania",
     "country": "IT",
+    "lastUpdated": "2020-03-27T05:46:02.121Z",
+    "dead": 83,
     "sick": 1169
   },
   {
+    "lastUpdated": "2020-03-27T05:56:02.819Z",
+    "dead": 0,
+    "id": "0VG7S6aaK4eSo59fL9JO",
     "infected": 2,
     "recovered": 0,
     "latitude": 20.9517,
@@ -20,9 +23,6 @@
     "longitude": 85.0985,
     "name": "Odisha",
     "country": "IN",
-    "lastUpdated": "2020-03-27T05:56:02.819Z",
-    "dead": 0,
-    "id": "0VG7S6aaK4eSo59fL9JO",
     "sick": 2
   },
   {
@@ -39,8 +39,6 @@
     "sick": 1
   },
   {
-    "infected": 549,
-    "recovered": 43,
     "latitude": 25.315058,
     "pop": 2639000,
     "longitude": 51.145517,
@@ -49,22 +47,27 @@
     "lastUpdated": "2020-03-27T05:43:03.444Z",
     "dead": 0,
     "id": "0m4aECS0Z2DGFEr8ldgI",
+    "infected": 549,
+    "recovered": 43,
     "sick": 506
   },
   {
+    "lastUpdated": "2020-03-27T05:56:02.741Z",
+    "dead": 1,
+    "id": "0n54EMSDJcRoT1QEvw80",
+    "infected": 10,
     "recovered": 0,
     "latitude": 22.9868,
     "pop": 90320000,
     "longitude": 87.855,
     "name": "West Bengal",
     "country": "IN",
-    "lastUpdated": "2020-03-27T05:56:02.741Z",
-    "dead": 1,
-    "id": "0n54EMSDJcRoT1QEvw80",
-    "infected": 10,
     "sick": 9
   },
   {
+    "infected": 20,
+    "recovered": 0,
+    "latitude": 22.9734,
     "pop": 73340000,
     "longitude": 78.6569,
     "name": "Madhya Pradesh",
@@ -72,14 +75,9 @@
     "lastUpdated": "2020-03-27T05:56:02.788Z",
     "dead": 1,
     "id": "0s18o5DrDAHjbu5MFcrj",
-    "infected": 20,
-    "recovered": 0,
-    "latitude": 22.9734,
     "sick": 19
   },
   {
-    "dead": 0,
-    "lastUpdated": "2020-03-26T15:43:05.110Z",
     "id": "0tFoopNTs6e4tOoaltu2",
     "infected": 0,
     "recovered": 428,
@@ -87,24 +85,24 @@
     "longitude": -95.7129,
     "name": "Unknown US state",
     "country": "US",
+    "dead": 0,
+    "lastUpdated": "2020-03-26T15:43:05.110Z",
     "sick": 0
   },
   {
-    "longitude": 108.472214,
-    "name": "Shaanxi",
-    "country": "CN",
-    "lastUpdated": "2020-03-27T00:45:28.978Z",
-    "dead": 3,
     "id": "0x2HLhr5z5xAtEdO4iZm",
     "infected": 253,
     "recovered": 242,
     "latitude": 35.64249,
     "pop": 37330000,
+    "longitude": 108.472214,
+    "name": "Shaanxi",
+    "country": "CN",
+    "lastUpdated": "2020-03-27T00:45:28.978Z",
+    "dead": 3,
     "sick": 8
   },
   {
-    "lastUpdated": "2020-03-27T05:43:03.536Z",
-    "dead": 3,
     "id": "19MvIhipqTyYv1H37Upw",
     "infected": 201,
     "recovered": 3,
@@ -113,24 +111,24 @@
     "longitude": 21.668393,
     "name": "North Macedonia",
     "country": "MK",
+    "lastUpdated": "2020-03-27T05:43:03.536Z",
+    "dead": 3,
     "sick": 195
   },
   {
-    "latitude": 53.1355,
-    "pop": 521542,
-    "longitude": -57.6604,
-    "name": "Newfoundland and Labrador",
-    "country": "CA",
     "lastUpdated": "2020-03-27T05:54:02.351Z",
     "dead": 0,
     "id": "1DOMOmCWDtva46OVSZLv",
     "infected": 82,
     "recovered": 0,
+    "latitude": 53.1355,
+    "pop": 521542,
+    "longitude": -57.6604,
+    "name": "Newfoundland and Labrador",
+    "country": "CA",
     "sick": 82
   },
   {
-    "infected": 18,
-    "recovered": 18,
     "latitude": 35.801933,
     "pop": 5627000,
     "longitude": 96.779286,
@@ -139,11 +137,11 @@
     "lastUpdated": "2020-03-27T00:45:59.692Z",
     "dead": 0,
     "id": "1Fap7rZu9SIRqf5TG9Dg",
+    "infected": 18,
+    "recovered": 18,
     "sick": 0
   },
   {
-    "recovered": 135,
-    "latitude": 44.9,
     "pop": 4376000,
     "longitude": 8.206944,
     "name": "Piemonte",
@@ -152,11 +150,11 @@
     "dead": 449,
     "id": "1eTSQyfp8RoDPeFrIwun",
     "infected": 6534,
+    "recovered": 135,
+    "latitude": 44.9,
     "sick": 5950
   },
   {
-    "infected": 2985,
-    "recovered": 6,
     "latitude": -14.235004,
     "pop": 209300000,
     "longitude": -51.925282,
@@ -165,12 +163,11 @@
     "lastUpdated": "2020-03-27T05:43:03.557Z",
     "dead": 77,
     "id": "1f0YoV0vAcexEhpESyZc",
+    "infected": 2985,
+    "recovered": 6,
     "sick": 2902
   },
   {
-    "lastUpdated": "2020-03-27T05:43:03.569Z",
-    "dead": 1,
-    "id": "1qTPB8X3tyLyIdsb5TN3",
     "infected": 177,
     "recovered": 2,
     "latitude": 47.4116,
@@ -178,6 +175,9 @@
     "longitude": 28.3699,
     "name": "Moldova",
     "country": "MD",
+    "lastUpdated": "2020-03-27T05:43:03.569Z",
+    "dead": 1,
+    "id": "1qTPB8X3tyLyIdsb5TN3",
     "sick": 174
   },
   {
@@ -194,6 +194,8 @@
     "sick": 0
   },
   {
+    "infected": 893,
+    "recovered": 35,
     "latitude": -1.572184,
     "pop": 264000000,
     "longitude": 115.66779,
@@ -202,27 +204,22 @@
     "lastUpdated": "2020-03-27T05:43:03.511Z",
     "dead": 78,
     "id": "2KHYUb5t3lwzVVmDjwNX",
-    "infected": 893,
-    "recovered": 35,
     "sick": 780
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.281Z",
+    "dead": 11,
+    "id": "2OrsssmGUs4XCzaZzvTv",
+    "infected": 317,
     "recovered": 0,
     "latitude": 43.807191,
     "pop": 4191000,
     "longitude": -120.585594,
     "name": "Oregon",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.281Z",
-    "dead": 11,
-    "id": "2OrsssmGUs4XCzaZzvTv",
-    "infected": 317,
     "sick": 306
   },
   {
-    "lastUpdated": "2020-03-27T00:46:05.519Z",
-    "dead": 1,
-    "id": "2jxHvSsxdnom0nPNvOT8",
     "infected": 95,
     "recovered": 92,
     "latitude": 43.851921,
@@ -230,9 +227,13 @@
     "longitude": 126.548103,
     "name": "Jilin",
     "country": "CN",
+    "lastUpdated": "2020-03-27T00:46:05.519Z",
+    "dead": 1,
+    "id": "2jxHvSsxdnom0nPNvOT8",
     "sick": 2
   },
   {
+    "infected": 35,
     "recovered": 13,
     "latitude": 36.1408,
     "pop": 34571,
@@ -242,12 +243,9 @@
     "lastUpdated": "2020-03-27T05:43:04.480Z",
     "dead": 0,
     "id": "2p11BjSAs3wVyymgqBOe",
-    "infected": 35,
     "sick": 22
   },
   {
-    "infected": 561,
-    "recovered": 0,
     "latitude": 47.7516,
     "pop": 2567000,
     "longitude": 1.6751,
@@ -256,37 +254,36 @@
     "lastUpdated": "2020-03-26T18:19:06.852Z",
     "dead": 0,
     "id": "2sLNkkHpyaHx7dD3aMDO",
+    "infected": 561,
+    "recovered": 0,
     "sick": 561
   },
   {
-    "infected": 802,
-    "recovered": 12,
-    "latitude": 42.565044,
-    "pop": 884640,
     "longitude": 12.643751,
     "name": "Umbria",
     "country": "IT",
     "lastUpdated": "2020-03-27T05:46:01.923Z",
     "dead": 20,
     "id": "319tiZOMczx1y0DfvOib",
+    "infected": 802,
+    "recovered": 12,
+    "latitude": 42.565044,
+    "pop": 884640,
     "sick": 770
   },
   {
-    "longitude": 10.4515,
-    "name": "Deutschland",
-    "country": "DE",
     "dead": 0,
     "lastUpdated": "2020-03-26T22:18:50.164Z",
     "id": "321X89hv9Zm8QyXGHYjy",
     "infected": 0,
     "recovered": 4000,
     "latitude": 51.1657,
+    "longitude": 10.4515,
+    "name": "Deutschland",
+    "country": "DE",
     "sick": 0
   },
   {
-    "infected": 16,
-    "recovered": 0,
-    "latitude": -13.133896,
     "pop": 17090000,
     "longitude": 27.849332,
     "name": "Zambia",
@@ -294,11 +291,12 @@
     "lastUpdated": "2020-03-27T05:43:04.259Z",
     "dead": 0,
     "id": "3IlPjAbP5qVMn1nlgLTJ",
+    "infected": 16,
+    "recovered": 0,
+    "latitude": -13.133896,
     "sick": 16
   },
   {
-    "latitude": 42.7044,
-    "pop": 631219,
     "longitude": 19.3958,
     "name": "Montenegro",
     "country": "ME",
@@ -307,9 +305,12 @@
     "id": "3LstMSN5XMYBkxbe5HN7",
     "infected": 69,
     "recovered": 0,
+    "latitude": 42.7044,
+    "pop": 631219,
     "sick": 68
   },
   {
+    "id": "3OZoQsKrzxZ18EKyfGE6",
     "infected": 53,
     "recovered": 1,
     "latitude": -35.4735,
@@ -319,13 +320,9 @@
     "country": "AU",
     "lastUpdated": "2020-03-27T05:55:02.920Z",
     "dead": 0,
-    "id": "3OZoQsKrzxZ18EKyfGE6",
     "sick": 52
   },
   {
-    "recovered": 0,
-    "latitude": 40.4173,
-    "pop": 11690000,
     "longitude": -82.9071,
     "name": "Ohio",
     "country": "US",
@@ -333,12 +330,12 @@
     "dead": 15,
     "id": "3fC3bAyIRUquOQOEnQNe",
     "infected": 870,
+    "recovered": 0,
+    "latitude": 40.4173,
+    "pop": 11690000,
     "sick": 855
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.531Z",
-    "dead": 0,
-    "id": "4NnFMekRK2m14IlnZZoj",
     "infected": 3,
     "recovered": 0,
     "latitude": 21.0079,
@@ -346,12 +343,12 @@
     "longitude": -10.9408,
     "name": "Mauritania",
     "country": "MR",
+    "lastUpdated": "2020-03-27T05:43:04.531Z",
+    "dead": 0,
+    "id": "4NnFMekRK2m14IlnZZoj",
     "sick": 3
   },
   {
-    "infected": 725,
-    "recovered": 0,
-    "latitude": 53.7267,
     "pop": 5071000,
     "longitude": -127.6476,
     "name": "British Columbia",
@@ -359,11 +356,12 @@
     "lastUpdated": "2020-03-27T05:54:02.425Z",
     "dead": 14,
     "id": "4hfZRUoUgI4a3vrG0GBk",
+    "infected": 725,
+    "recovered": 0,
+    "latitude": 53.7267,
     "sick": 711
   },
   {
-    "infected": 3544,
-    "recovered": 43,
     "latitude": 41.065877,
     "pop": 10290000,
     "longitude": -7.920053,
@@ -372,9 +370,13 @@
     "lastUpdated": "2020-03-27T05:43:03.430Z",
     "dead": 60,
     "id": "4rQLxUCMmQLpbi6E9tbH",
+    "infected": 3544,
+    "recovered": 43,
     "sick": 3441
   },
   {
+    "infected": 122,
+    "recovered": 15,
     "latitude": 40.3426,
     "pop": 9898000,
     "longitude": 47.93802,
@@ -383,8 +385,6 @@
     "lastUpdated": "2020-03-27T05:43:03.663Z",
     "dead": 3,
     "id": "4zqzRm2xHn0CDVOUQJ8p",
-    "infected": 122,
-    "recovered": 15,
     "sick": 104
   },
   {
@@ -401,9 +401,6 @@
     "sick": 8
   },
   {
-    "longitude": 146.921097,
-    "name": "New South Wales",
-    "country": "AU",
     "lastUpdated": "2020-03-27T05:55:02.825Z",
     "dead": 7,
     "id": "5N16a2OXXRpsEFanw0TC",
@@ -411,11 +408,12 @@
     "recovered": 4,
     "latitude": -31.253218,
     "pop": 7544000,
+    "longitude": 146.921097,
+    "name": "New South Wales",
+    "country": "AU",
     "sick": 1394
   },
   {
-    "infected": 14,
-    "recovered": 0,
     "latitude": -20.9043045,
     "pop": 280460,
     "longitude": 165.618042,
@@ -424,22 +422,25 @@
     "lastUpdated": "2020-03-27T05:43:04.586Z",
     "dead": 0,
     "id": "5fg04eyDwFw3kEXnrxez",
+    "infected": 14,
+    "recovered": 0,
     "sick": 14
   },
   {
-    "latitude": 28.394857,
-    "pop": 29300000,
-    "longitude": 84.124008,
-    "name": "Nepal",
-    "country": "NP",
     "lastUpdated": "2020-03-27T05:43:04.607Z",
     "dead": 0,
     "id": "5gXZIjRgAvd6xWN1LOv8",
     "infected": 3,
     "recovered": 1,
+    "latitude": 28.394857,
+    "pop": 29300000,
+    "longitude": 84.124008,
+    "name": "Nepal",
+    "country": "NP",
     "sick": 2
   },
   {
+    "latitude": 12.879721,
     "pop": 104900000,
     "longitude": 121.774017,
     "name": "Philippines",
@@ -449,13 +450,9 @@
     "id": "5pwmh7aSdGRKqRbnuyc0",
     "infected": 707,
     "recovered": 28,
-    "latitude": 12.879721,
     "sick": 634
   },
   {
-    "longitude": 31.053028,
-    "name": "Zimbabwe",
-    "country": "ZW",
     "lastUpdated": "2020-03-27T05:43:04.507Z",
     "dead": 1,
     "id": "5qtR9nx4BLwu1ODTniaY",
@@ -463,6 +460,9 @@
     "recovered": 0,
     "latitude": -17.824858,
     "pop": 14802190,
+    "longitude": 31.053028,
+    "name": "Zimbabwe",
+    "country": "ZW",
     "sick": 2
   },
   {
@@ -479,6 +479,8 @@
     "sick": 294
   },
   {
+    "lastUpdated": "2020-03-27T05:43:03.620Z",
+    "dead": 4,
     "id": "6IcHIIH0zXpY0POmBZTv",
     "infected": 454,
     "recovered": 110,
@@ -487,8 +489,6 @@
     "longitude": 114.109497,
     "name": "Hong Kong",
     "country": "HK",
-    "lastUpdated": "2020-03-27T05:43:03.620Z",
-    "dead": 4,
     "sick": 340
   },
   {
@@ -505,8 +505,6 @@
     "sick": 6
   },
   {
-    "infected": 34889,
-    "recovered": 7839,
     "latitude": 45.6667,
     "pop": 10040000,
     "longitude": 9.5,
@@ -515,6 +513,8 @@
     "lastUpdated": "2020-03-27T05:46:01.817Z",
     "dead": 4861,
     "id": "6ZHcvMIzVWIaRnc4R3Qp",
+    "infected": 34889,
+    "recovered": 7839,
     "sick": 22189
   },
   {
@@ -531,6 +531,9 @@
     "sick": 546
   },
   {
+    "lastUpdated": "2020-03-27T05:43:04.555Z",
+    "dead": 1,
+    "id": "6pBi38TUgYfFm0bry2uh",
     "infected": 7,
     "recovered": 0,
     "latitude": -0.8037,
@@ -538,15 +541,9 @@
     "longitude": 11.6094,
     "name": "Gabon",
     "country": "GA",
-    "lastUpdated": "2020-03-27T05:43:04.555Z",
-    "dead": 1,
-    "id": "6pBi38TUgYfFm0bry2uh",
     "sick": 6
   },
   {
-    "lastUpdated": "2020-03-27T05:51:29.172Z",
-    "dead": 0,
-    "id": "78Ox26bNHDA2Pk2b3Uwn",
     "infected": 3,
     "recovered": 0,
     "latitude": 17.901672,
@@ -554,25 +551,25 @@
     "longitude": -62.818544,
     "name": "Saint-Barthélémy",
     "country": "FR",
+    "lastUpdated": "2020-03-27T05:51:29.172Z",
+    "dead": 0,
+    "id": "78Ox26bNHDA2Pk2b3Uwn",
     "sick": 3
   },
   {
-    "latitude": 17.0608,
-    "pop": 102012,
-    "longitude": -61.7964,
-    "name": "Antigua and Barbuda",
-    "country": "AG",
     "lastUpdated": "2020-03-27T05:43:04.614Z",
     "dead": 0,
     "id": "7hVFcEV7nV0MrQr3LHrl",
     "infected": 7,
     "recovered": 0,
+    "latitude": 17.0608,
+    "pop": 102012,
+    "longitude": -61.7964,
+    "name": "Antigua and Barbuda",
+    "country": "AG",
     "sick": 7
   },
   {
-    "lastUpdated": "2020-03-27T05:42:03.633Z",
-    "dead": 52,
-    "id": "7kCrrlOBE3jN6FtOVNUB",
     "infected": 8842,
     "recovered": 99,
     "latitude": 48.7904,
@@ -580,10 +577,12 @@
     "longitude": 11.4979,
     "name": "Bayern",
     "country": "DE",
+    "lastUpdated": "2020-03-27T05:42:03.633Z",
+    "dead": 52,
+    "id": "7kCrrlOBE3jN6FtOVNUB",
     "sick": 8691
   },
   {
-    "infected": 261,
     "recovered": 28,
     "latitude": 47.4979,
     "pop": 9773000,
@@ -593,6 +592,7 @@
     "lastUpdated": "2020-03-27T05:43:03.452Z",
     "dead": 10,
     "id": "7rYC2iFB50c55Ihgbs4Q",
+    "infected": 261,
     "sick": 223
   },
   {
@@ -622,6 +622,7 @@
     "sick": 61
   },
   {
+    "id": "8ZTySQROQejkDAad0qxQ",
     "infected": 1,
     "recovered": 0,
     "latitude": 12.9843,
@@ -631,13 +632,9 @@
     "country": "VC",
     "lastUpdated": "2020-03-27T05:43:04.493Z",
     "dead": 0,
-    "id": "8ZTySQROQejkDAad0qxQ",
     "sick": 1
   },
   {
-    "recovered": 172,
-    "latitude": 1.352083,
-    "pop": 5621000,
     "longitude": 103.819839,
     "name": "Singapore",
     "country": "SG",
@@ -645,12 +642,12 @@
     "dead": 2,
     "id": "8pA3fM4xC2c2wv1b4TnE",
     "infected": 683,
+    "recovered": 172,
+    "latitude": 1.352083,
+    "pop": 5621000,
     "sick": 509
   },
   {
-    "infected": 368,
-    "recovered": 127,
-    "latitude": 47.2184,
     "pop": 3787000,
     "longitude": -1.5536,
     "name": "Pays de la Loire",
@@ -658,9 +655,14 @@
     "lastUpdated": "2020-03-27T05:46:29.066Z",
     "dead": 24,
     "id": "98hwAoohgWEOQVa3NlM5",
+    "infected": 368,
+    "recovered": 127,
+    "latitude": 47.2184,
     "sick": 217
   },
   {
+    "infected": 3,
+    "recovered": 0,
     "latitude": 12.8628,
     "pop": 40530000,
     "longitude": 30.2176,
@@ -669,11 +671,12 @@
     "lastUpdated": "2020-03-27T05:43:04.521Z",
     "dead": 1,
     "id": "9DPOkpIqrFy9mR4e9fuv",
-    "infected": 3,
-    "recovered": 0,
     "sick": 2
   },
   {
+    "lastUpdated": "2020-03-27T05:43:03.477Z",
+    "dead": 23,
+    "id": "9QcETqEcM2fTv9zRvx5T",
     "infected": 1029,
     "recovered": 94,
     "latitude": 45.943161,
@@ -681,13 +684,9 @@
     "longitude": 24.966761,
     "name": "Romania",
     "country": "RO",
-    "lastUpdated": "2020-03-27T05:43:03.477Z",
-    "dead": 23,
-    "id": "9QcETqEcM2fTv9zRvx5T",
     "sick": 912
   },
   {
-    "infected": 2,
     "recovered": 0,
     "latitude": 12.136389,
     "pop": 6218000,
@@ -697,6 +696,7 @@
     "lastUpdated": "2020-03-27T05:43:04.618Z",
     "dead": 1,
     "id": "9Y5wmCqNCC6ZrenM31uA",
+    "infected": 2,
     "sick": 1
   },
   {
@@ -713,29 +713,29 @@
     "sick": 943
   },
   {
+    "infected": 154,
+    "recovered": 0,
+    "latitude": 43.311643,
+    "pop": 1356000,
     "longitude": -71.590315,
     "name": "New Hampshire",
     "country": "US",
     "lastUpdated": "2020-03-27T05:54:02.503Z",
     "dead": 1,
     "id": "A84CwQ52kA46Hr7pn6Bm",
-    "infected": 154,
-    "recovered": 0,
-    "latitude": 43.311643,
-    "pop": 1356000,
     "sick": 153
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.489Z",
-    "dead": 0,
-    "id": "AEUWUHS65qvjEslew11c",
-    "infected": 165,
-    "recovered": 0,
     "latitude": 41.823261,
     "pop": 1057000,
     "longitude": -71.412257,
     "name": "Rhode Island",
     "country": "US",
+    "lastUpdated": "2020-03-27T05:54:02.489Z",
+    "dead": 0,
+    "id": "AEUWUHS65qvjEslew11c",
+    "infected": 165,
+    "recovered": 0,
     "sick": 165
   },
   {
@@ -765,8 +765,6 @@
     "sick": 512
   },
   {
-    "infected": 6,
-    "recovered": 2,
     "latitude": 71.7069,
     "pop": 56171,
     "longitude": -42.6043,
@@ -775,6 +773,8 @@
     "lastUpdated": "2020-03-27T05:43:04.584Z",
     "dead": 0,
     "id": "APaZzlGCEeuoLBtzTJMe",
+    "infected": 6,
+    "recovered": 2,
     "sick": 4
   },
   {
@@ -791,6 +791,7 @@
     "sick": 73
   },
   {
+    "id": "AcULcZBozObOhwuRKMjJ",
     "infected": 90,
     "recovered": 0,
     "latitude": 47.012918,
@@ -800,23 +801,23 @@
     "country": "US",
     "lastUpdated": "2020-03-27T05:54:02.294Z",
     "dead": 1,
-    "id": "AcULcZBozObOhwuRKMjJ",
     "sick": 89
   },
   {
+    "infected": 936,
+    "recovered": 934,
+    "latitude": 27.285971,
+    "pop": 45200000,
     "longitude": 116.01609,
     "name": "Jiangxi",
     "country": "CN",
     "lastUpdated": "2020-03-27T00:47:49.633Z",
     "dead": 1,
     "id": "AmBYm5J6E9Cuez1FQjiN",
-    "infected": 936,
-    "recovered": 934,
-    "latitude": 27.285971,
-    "pop": 45200000,
     "sick": 1
   },
   {
+    "infected": 367,
     "recovered": 29,
     "latitude": 28.033886,
     "pop": 41320000,
@@ -826,10 +827,12 @@
     "lastUpdated": "2020-03-27T05:43:03.537Z",
     "dead": 25,
     "id": "AwN0CScPDApcLFgz6e3z",
-    "infected": 367,
     "sick": 313
   },
   {
+    "longitude": 15.2,
+    "name": "Croatia",
+    "country": "HR",
     "lastUpdated": "2020-03-27T05:43:03.442Z",
     "dead": 3,
     "id": "B82Ef45M8cDu4q7VsSHF",
@@ -837,25 +840,25 @@
     "recovered": 22,
     "latitude": 45.099998,
     "pop": 4076000,
-    "longitude": 15.2,
-    "name": "Croatia",
-    "country": "HR",
     "sick": 470
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.465Z",
-    "dead": 1,
-    "id": "BENubqQInFUJzhpZTsLT",
-    "infected": 10,
-    "recovered": 0,
     "latitude": 17.6077881,
     "pop": 23716000,
     "longitude": 8.081666,
     "name": "Niger",
     "country": "NE",
+    "lastUpdated": "2020-03-27T05:43:04.465Z",
+    "dead": 1,
+    "id": "BENubqQInFUJzhpZTsLT",
+    "infected": 10,
+    "recovered": 0,
     "sick": 9
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.511Z",
+    "dead": 4,
+    "id": "BF51mWl51fgEcyBpCSzb",
     "infected": 583,
     "recovered": 0,
     "latitude": 39.509109,
@@ -863,12 +866,11 @@
     "longitude": -76.98432,
     "name": "Maryland",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.511Z",
-    "dead": 4,
-    "id": "BF51mWl51fgEcyBpCSzb",
     "sick": 579
   },
   {
+    "infected": 86,
+    "recovered": 29,
     "latitude": 53.709808,
     "pop": 9508000,
     "longitude": 27.953388,
@@ -877,8 +879,6 @@
     "lastUpdated": "2020-03-27T05:43:04.416Z",
     "dead": 0,
     "id": "BGg6yVU5VP71B8NXU0oh",
-    "infected": 86,
-    "recovered": 29,
     "sick": 57
   },
   {
@@ -895,6 +895,9 @@
     "sick": 606
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.513Z",
+    "dead": 8,
+    "id": "BTEESCuD2ZbS1afunR2A",
     "infected": 508,
     "recovered": 0,
     "latitude": 34.048927,
@@ -902,12 +905,11 @@
     "longitude": -111.093735,
     "name": "Arizona",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.513Z",
-    "dead": 8,
-    "id": "BTEESCuD2ZbS1afunR2A",
     "sick": 500
   },
   {
+    "infected": 39140,
+    "recovered": 0,
     "latitude": 40.719042,
     "pop": 19540000,
     "longitude": -73.982597,
@@ -916,21 +918,19 @@
     "lastUpdated": "2020-03-27T05:54:02.349Z",
     "dead": 457,
     "id": "C3BCUzV80z9GfiuByIcr",
-    "infected": 39140,
-    "recovered": 0,
     "sick": 38683
   },
   {
-    "infected": 1925,
-    "recovered": 10,
-    "latitude": 49.731626,
-    "pop": 10650000,
     "longitude": 15.359413,
     "name": "Czechia",
     "country": "CZ",
     "lastUpdated": "2020-03-27T05:43:03.502Z",
     "dead": 9,
     "id": "C6S76AggdWVU8G22jFHQ",
+    "infected": 1925,
+    "recovered": 10,
+    "latitude": 49.731626,
+    "pop": 10650000,
     "sick": 1906
   },
   {
@@ -960,7 +960,6 @@
     "sick": 38
   },
   {
-    "latitude": 13.803,
     "pop": 6378000,
     "longitude": -88.9053,
     "name": "El Salvador",
@@ -970,10 +969,10 @@
     "id": "Cgvmtle61ehMvCzRzYx7",
     "infected": 13,
     "recovered": 0,
+    "latitude": 13.803,
     "sick": 13
   },
   {
-    "infected": 11658,
     "recovered": 135,
     "latitude": 52.355518,
     "pop": 66440000,
@@ -983,9 +982,12 @@
     "lastUpdated": "2020-03-27T05:43:03.534Z",
     "dead": 578,
     "id": "CrXu6i5Sqx11iwdfHfBs",
+    "infected": 11658,
     "sick": 10945
   },
   {
+    "recovered": 18,
+    "latitude": 40.259003,
     "pop": 2973000,
     "longitude": 44.818474,
     "name": "Armenia",
@@ -994,11 +996,11 @@
     "dead": 1,
     "id": "DCJCtZoBTWQ4mzdDNljD",
     "infected": 290,
-    "recovered": 18,
-    "latitude": 40.259003,
     "sick": 271
   },
   {
+    "latitude": 22.192039,
+    "pop": 622567,
     "longitude": 113.551262,
     "name": "Macao",
     "country": "MO",
@@ -1007,13 +1009,9 @@
     "id": "DdBt8qsG6A3g92oOR3ow",
     "infected": 33,
     "recovered": 10,
-    "latitude": 22.192039,
-    "pop": 622567,
     "sick": 23
   },
   {
-    "infected": 56,
-    "recovered": 0,
     "latitude": 42.962334,
     "pop": 577737,
     "longitude": -107.534868,
@@ -1022,10 +1020,11 @@
     "lastUpdated": "2020-03-27T05:54:02.524Z",
     "dead": 0,
     "id": "DrGzziUglmBognCGY7R2",
+    "infected": 56,
+    "recovered": 0,
     "sick": 56
   },
   {
-    "recovered": 36,
     "latitude": 40.6401,
     "pop": 10740000,
     "longitude": 22.9444,
@@ -1035,9 +1034,13 @@
     "dead": 27,
     "id": "Dtr1lap1RpJpXJdXGJiW",
     "infected": 892,
+    "recovered": 36,
     "sick": 829
   },
   {
+    "infected": 252,
+    "recovered": 29,
+    "latitude": 25.03841,
     "pop": 23780000,
     "longitude": 121.563698,
     "name": "Taiwan",
@@ -1045,13 +1048,9 @@
     "lastUpdated": "2020-03-27T05:43:03.515Z",
     "dead": 2,
     "id": "EKTfs8e7M6DXzI1HqyyX",
-    "infected": 252,
-    "recovered": 29,
-    "latitude": 25.03841,
     "sick": 221
   },
   {
-    "infected": 231,
     "recovered": 2,
     "latitude": 10.327273,
     "pop": 4906000,
@@ -1061,9 +1060,13 @@
     "lastUpdated": "2020-03-27T05:43:03.458Z",
     "dead": 2,
     "id": "EQzJvzVHKjs8kLmK7BMu",
+    "infected": 231,
     "sick": 227
   },
   {
+    "infected": 43,
+    "recovered": 0,
+    "latitude": 22.2587,
     "pop": 62700000,
     "longitude": 71.1924,
     "name": "Gujarat",
@@ -1071,25 +1074,23 @@
     "lastUpdated": "2020-03-27T05:56:02.834Z",
     "dead": 3,
     "id": "ERwk9R9en4m9WbdoMbIg",
-    "infected": 43,
-    "recovered": 0,
-    "latitude": 22.2587,
     "sick": 40
   },
   {
-    "lastUpdated": "2020-03-27T05:56:02.830Z",
-    "dead": 0,
-    "id": "Esl5UlCVB9s8pmGB5Ofr",
-    "infected": 7,
-    "recovered": 0,
     "latitude": 30.7333,
     "pop": 1055000,
     "longitude": 76.7794,
     "name": "Chandigarh",
     "country": "IN",
+    "lastUpdated": "2020-03-27T05:56:02.830Z",
+    "dead": 0,
+    "id": "Esl5UlCVB9s8pmGB5Ofr",
+    "infected": 7,
+    "recovered": 0,
     "sick": 7
   },
   {
+    "recovered": 0,
     "latitude": 18.200178,
     "pop": 3195000,
     "longitude": -66.664513,
@@ -1099,10 +1100,12 @@
     "dead": 2,
     "id": "F4rPrEVGAIMM5rfPEMv4",
     "infected": 64,
-    "recovered": 0,
     "sick": 62
   },
   {
+    "lastUpdated": "2020-03-27T05:43:03.591Z",
+    "dead": 4,
+    "id": "FCDmlmnIIswd8bQiUjfN",
     "infected": 94,
     "recovered": 2,
     "latitude": 33.93911,
@@ -1110,9 +1113,6 @@
     "longitude": 67.709953,
     "name": "Afghanistan",
     "country": "AF",
-    "lastUpdated": "2020-03-27T05:43:03.591Z",
-    "dead": 4,
-    "id": "FCDmlmnIIswd8bQiUjfN",
     "sick": 88
   },
   {
@@ -1129,8 +1129,6 @@
     "sick": 2
   },
   {
-    "infected": 208,
-    "recovered": 49,
     "latitude": 29.311661,
     "pop": 4137000,
     "longitude": 47.481766,
@@ -1139,9 +1137,14 @@
     "lastUpdated": "2020-03-27T05:43:03.540Z",
     "dead": 0,
     "id": "FZsUkhxBEgqsPb4eO0PN",
+    "infected": 208,
+    "recovered": 49,
     "sick": 159
   },
   {
+    "lastUpdated": "2020-03-27T05:56:02.822Z",
+    "dead": 1,
+    "id": "FeS45oMNC27pI17F0xEV",
     "infected": 29,
     "recovered": 1,
     "latitude": 11.1271,
@@ -1149,15 +1152,9 @@
     "longitude": 78.6569,
     "name": "Tamil Nadu",
     "country": "IN",
-    "lastUpdated": "2020-03-27T05:56:02.822Z",
-    "dead": 1,
-    "id": "FeS45oMNC27pI17F0xEV",
     "sick": 27
   },
   {
-    "longitude": -70.430399,
-    "name": "Dominican Republic",
-    "country": "DO",
     "lastUpdated": "2020-03-27T05:43:03.555Z",
     "dead": 10,
     "id": "FuiVEJvWb0QMCpxJ3563",
@@ -1165,11 +1162,12 @@
     "recovered": 3,
     "latitude": 18.947829,
     "pop": 10770000,
+    "longitude": -70.430399,
+    "name": "Dominican Republic",
+    "country": "DO",
     "sick": 475
   },
   {
-    "infected": 45,
-    "recovered": 1,
     "latitude": 18.1124,
     "pop": 35190000,
     "longitude": 79.0193,
@@ -1178,9 +1176,13 @@
     "lastUpdated": "2020-03-27T05:56:02.828Z",
     "dead": 0,
     "id": "FyC551oNwmENxbr9Yght",
+    "infected": 45,
+    "recovered": 1,
     "sick": 44
   },
   {
+    "latitude": 48.669,
+    "pop": 5450000,
     "longitude": 19.699,
     "name": "Slovakia",
     "country": "SK",
@@ -1189,13 +1191,9 @@
     "id": "FzIDXoqWnTI3nUfhPyT2",
     "infected": 226,
     "recovered": 2,
-    "latitude": 48.669,
-    "pop": 5450000,
     "sick": 224
   },
   {
-    "lastUpdated": "2020-03-27T05:43:03.660Z",
-    "dead": 9,
     "id": "GAp7Wb6IMhdgbvEtMza9",
     "infected": 1201,
     "recovered": 21,
@@ -1204,11 +1202,11 @@
     "longitude": 69.345116,
     "name": "Pakistan",
     "country": "PK",
+    "lastUpdated": "2020-03-27T05:43:03.660Z",
+    "dead": 9,
     "sick": 1171
   },
   {
-    "id": "GGru8cG08mANO8XDDUtZ",
-    "infected": 33,
     "recovered": 0,
     "latitude": 31.1471,
     "pop": 27980000,
@@ -1217,11 +1215,11 @@
     "country": "IN",
     "lastUpdated": "2020-03-27T05:56:02.803Z",
     "dead": 1,
+    "id": "GGru8cG08mANO8XDDUtZ",
+    "infected": 33,
     "sick": 32
   },
   {
-    "infected": 333,
-    "recovered": 52,
     "latitude": 23.424076,
     "pop": 9400000,
     "longitude": 53.847816,
@@ -1230,25 +1228,24 @@
     "lastUpdated": "2020-03-27T05:43:03.480Z",
     "dead": 2,
     "id": "GHzBIsHy2GiBc5JV2HMs",
+    "infected": 333,
+    "recovered": 52,
     "sick": 279
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.345Z",
-    "dead": 82,
-    "id": "Gh46r6vuaY7fbGt3IboN",
-    "infected": 4040,
     "recovered": 0,
     "latitude": 36.621981,
     "pop": 39560000,
     "longitude": -119.339046,
     "name": "California",
     "country": "US",
+    "lastUpdated": "2020-03-27T05:54:02.345Z",
+    "dead": 82,
+    "id": "Gh46r6vuaY7fbGt3IboN",
+    "infected": 4040,
     "sick": 3958
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.368Z",
-    "dead": 7,
-    "id": "GpF8ULuKOQiFDCUHN44h",
     "infected": 248,
     "recovered": 0,
     "latitude": 35.87189,
@@ -1256,9 +1253,14 @@
     "longitude": -97.145514,
     "name": "Oklahoma",
     "country": "US",
+    "lastUpdated": "2020-03-27T05:54:02.368Z",
+    "dead": 7,
+    "id": "GpF8ULuKOQiFDCUHN44h",
     "sick": 241
   },
   {
+    "latitude": 46.5,
+    "pop": 520891,
     "longitude": 11.35,
     "name": "P.A. Bolzano",
     "country": "IT",
@@ -1267,24 +1269,25 @@
     "id": "Gzx6GX1qhBm714BkEC6l",
     "infected": 906,
     "recovered": 67,
-    "latitude": 46.5,
-    "pop": 520891,
     "sick": 791
   },
   {
-    "latitude": 42.83263,
-    "pop": 24710000,
-    "longitude": 113.750972,
-    "name": "Inner Mongolia",
-    "country": "CN",
     "lastUpdated": "2020-03-27T00:45:15.467Z",
     "dead": 1,
     "id": "H3JeVigVbo5CSYfZG4WI",
     "infected": 89,
     "recovered": 74,
+    "latitude": 42.83263,
+    "pop": 24710000,
+    "longitude": 113.750972,
+    "name": "Inner Mongolia",
+    "country": "CN",
     "sick": 14
   },
   {
+    "id": "H3bDg4eV30up4WWrIDAS",
+    "infected": 535,
+    "recovered": 0,
     "latitude": 39.74536,
     "pop": 3034000,
     "longitude": -116.724977,
@@ -1292,12 +1295,12 @@
     "country": "US",
     "lastUpdated": "2020-03-27T05:54:02.388Z",
     "dead": 10,
-    "id": "H3bDg4eV30up4WWrIDAS",
-    "infected": 535,
-    "recovered": 0,
     "sick": 525
   },
   {
+    "lastUpdated": "2020-03-27T05:56:02.768Z",
+    "dead": 2,
+    "id": "HN5mGmxlqlSeFSNeu1K5",
     "infected": 55,
     "recovered": 3,
     "latitude": 15.3173,
@@ -1305,12 +1308,11 @@
     "longitude": 75.7139,
     "name": "Karnataka",
     "country": "IN",
-    "lastUpdated": "2020-03-27T05:56:02.768Z",
-    "dead": 2,
-    "id": "HN5mGmxlqlSeFSNeu1K5",
     "sick": 50
   },
   {
+    "infected": 3,
+    "recovered": 0,
     "latitude": 27.5142,
     "pop": 807610,
     "longitude": 90.4336,
@@ -1319,11 +1321,10 @@
     "lastUpdated": "2020-03-27T05:43:04.443Z",
     "dead": 0,
     "id": "HRDpwyxpqW9RN0xLFyNu",
-    "infected": 3,
-    "recovered": 0,
     "sick": 3
   },
   {
+    "recovered": 0,
     "latitude": 41.3775,
     "pop": 32390000,
     "longitude": 64.5853,
@@ -1333,12 +1334,9 @@
     "dead": 0,
     "id": "HRTA10dtrruDEwjJEGMp",
     "infected": 75,
-    "recovered": 0,
     "sick": 75
   },
   {
-    "recovered": 0,
-    "latitude": 34.138916,
     "pop": 2095000,
     "longitude": -105.576255,
     "name": "New Mexico",
@@ -1347,12 +1345,11 @@
     "dead": 1,
     "id": "HSSFomRju0doHhWgW8On",
     "infected": 136,
+    "recovered": 0,
+    "latitude": 34.138916,
     "sick": 135
   },
   {
-    "id": "He1gSS1v50t06i3YrqvB",
-    "infected": 265,
-    "recovered": 5,
     "latitude": 53.6127,
     "pop": 1635000,
     "longitude": 12.4296,
@@ -1360,9 +1357,13 @@
     "country": "DE",
     "lastUpdated": "2020-03-27T05:42:03.642Z",
     "dead": 0,
+    "id": "He1gSS1v50t06i3YrqvB",
+    "infected": 265,
+    "recovered": 5,
     "sick": 260
   },
   {
+    "latitude": 23.634501,
     "pop": 129200000,
     "longitude": -102.552788,
     "name": "Mexico",
@@ -1372,7 +1373,6 @@
     "id": "I4OJ6z9Vjs1byOcbsJrd",
     "infected": 585,
     "recovered": 4,
-    "latitude": 23.634501,
     "sick": 573
   },
   {
@@ -1402,6 +1402,9 @@
     "sick": 104
   },
   {
+    "lastUpdated": "2020-03-27T00:48:20.507Z",
+    "dead": 22,
+    "id": "IFuMrMvSjoiX5agYvllh",
     "infected": 1275,
     "recovered": 1250,
     "latitude": 33.875408,
@@ -1409,12 +1412,12 @@
     "longitude": 113.484016,
     "name": "Henan",
     "country": "CN",
-    "lastUpdated": "2020-03-27T00:48:20.507Z",
-    "dead": 22,
-    "id": "IFuMrMvSjoiX5agYvllh",
     "sick": 3
   },
   {
+    "longitude": -73.0513,
+    "name": "Haiti",
+    "country": "HT",
     "lastUpdated": "2020-03-27T05:43:04.529Z",
     "dead": 0,
     "id": "InZ38sIqyK7FN7XAOZoX",
@@ -1422,12 +1425,12 @@
     "recovered": 0,
     "latitude": 19.0558,
     "pop": 10980000,
-    "longitude": -73.0513,
-    "name": "Haiti",
-    "country": "HT",
     "sick": 8
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.478Z",
+    "dead": 56,
+    "id": "IvQkDJkTAsoIqPRAU25n",
     "infected": 1642,
     "recovered": 0,
     "latitude": 32.528564,
@@ -1435,9 +1438,6 @@
     "longitude": -83.280125,
     "name": "Georgia (US)",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.478Z",
-    "dead": 56,
-    "id": "IvQkDJkTAsoIqPRAU25n",
     "sick": 1586
   },
   {
@@ -1454,9 +1454,6 @@
     "sick": 331
   },
   {
-    "lastUpdated": "2020-03-27T05:43:03.545Z",
-    "dead": 1,
-    "id": "J3mZXlfEnnJx4CDZLvRG",
     "infected": 107,
     "recovered": 15,
     "latitude": 6.4238,
@@ -1464,25 +1461,25 @@
     "longitude": -66.5897,
     "name": "Venezuela",
     "country": "VE",
+    "lastUpdated": "2020-03-27T05:43:03.545Z",
+    "dead": 1,
+    "id": "J3mZXlfEnnJx4CDZLvRG",
     "sick": 91
   },
   {
-    "lastUpdated": "2020-03-27T05:43:03.567Z",
-    "dead": 3,
-    "id": "JQByE4l2OA6sGOqIcWrM",
-    "infected": 146,
-    "recovered": 4,
     "latitude": 35.1264,
     "pop": 1170000,
     "longitude": 33.4299,
     "name": "Cyprus",
     "country": "CY",
+    "lastUpdated": "2020-03-27T05:43:03.567Z",
+    "dead": 3,
+    "id": "JQByE4l2OA6sGOqIcWrM",
+    "infected": 146,
+    "recovered": 4,
     "sick": 139
   },
   {
-    "lastUpdated": "2020-03-27T05:56:02.796Z",
-    "dead": 1,
-    "id": "JR7hOGked7CZtIs2nCV5",
     "infected": 6,
     "recovered": 0,
     "latitude": 25.0961,
@@ -1490,10 +1487,12 @@
     "longitude": 85.3131,
     "name": "Bihar",
     "country": "IN",
+    "lastUpdated": "2020-03-27T05:56:02.796Z",
+    "dead": 1,
+    "id": "JR7hOGked7CZtIs2nCV5",
     "sick": 5
   },
   {
-    "infected": 25,
     "recovered": 4,
     "latitude": 14.628434,
     "pop": 16910000,
@@ -1503,11 +1502,10 @@
     "lastUpdated": "2020-03-27T05:43:04.513Z",
     "dead": 1,
     "id": "JUWE6bG3b5oL7fKQMSvv",
+    "infected": 25,
     "sick": 20
   },
   {
-    "infected": 1453,
-    "recovered": 6,
     "latitude": 49.8153,
     "pop": 602005,
     "longitude": 6.1296,
@@ -1516,25 +1514,24 @@
     "lastUpdated": "2020-03-27T05:43:03.512Z",
     "dead": 9,
     "id": "JcFsHSn2WvZ5LJW42ovG",
+    "infected": 1453,
+    "recovered": 6,
     "sick": 1438
   },
   {
-    "latitude": 8.6195,
-    "pop": 7798000,
-    "longitude": 0.8248,
-    "name": "Togo",
-    "country": "TG",
     "lastUpdated": "2020-03-27T05:43:04.273Z",
     "dead": 0,
     "id": "JrBbirlBKGdWSdcDt7PF",
     "infected": 24,
     "recovered": 1,
+    "latitude": 8.6195,
+    "pop": 7798000,
+    "longitude": 0.8248,
+    "name": "Togo",
+    "country": "TG",
     "sick": 23
   },
   {
-    "lastUpdated": "2020-03-27T05:43:03.562Z",
-    "dead": 3,
-    "id": "JzZ8sbqzjutThVjkPKPL",
     "infected": 264,
     "recovered": 8,
     "latitude": 42.7339,
@@ -1542,9 +1539,13 @@
     "longitude": 25.4858,
     "name": "Bulgaria",
     "country": "BG",
+    "lastUpdated": "2020-03-27T05:43:03.562Z",
+    "dead": 3,
+    "id": "JzZ8sbqzjutThVjkPKPL",
     "sick": 253
   },
   {
+    "pop": 1557000,
     "longitude": 8.833,
     "name": "Liguria",
     "country": "IT",
@@ -1554,13 +1555,9 @@
     "infected": 2567,
     "recovered": 260,
     "latitude": 44.5,
-    "pop": 1557000,
     "sick": 2027
   },
   {
-    "infected": 3226,
-    "recovered": 95,
-    "latitude": 43.4167,
     "pop": 3737000,
     "longitude": 11,
     "name": "Toscana",
@@ -1568,22 +1565,27 @@
     "lastUpdated": "2020-03-27T05:46:01.823Z",
     "dead": 158,
     "id": "KrLrJbpDqqiXgUPGCCW9",
+    "infected": 3226,
+    "recovered": 95,
+    "latitude": 43.4167,
     "sick": 2973
   },
   {
-    "latitude": 7.873054,
-    "pop": 21440000,
-    "longitude": 80.771797,
-    "name": "Sri Lanka",
-    "country": "LK",
     "lastUpdated": "2020-03-27T05:43:03.572Z",
     "dead": 0,
     "id": "KsWzJO06cf0d6LJ4ZNh9",
     "infected": 106,
     "recovered": 7,
+    "latitude": 7.873054,
+    "pop": 21440000,
+    "longitude": 80.771797,
+    "name": "Sri Lanka",
+    "country": "LK",
     "sick": 99
   },
   {
+    "infected": 12,
+    "recovered": 1,
     "latitude": 15.9129,
     "pop": 49670000,
     "longitude": 79.74,
@@ -1592,8 +1594,6 @@
     "lastUpdated": "2020-03-27T05:56:02.774Z",
     "dead": 0,
     "id": "KtQIo2DoqjELtPAlyDVO",
-    "infected": 12,
-    "recovered": 1,
     "sick": 11
   },
   {
@@ -1610,7 +1610,6 @@
     "sick": 799
   },
   {
-    "latitude": 18.0708,
     "pop": 32125,
     "longitude": -63.0501,
     "name": "Saint-Martin",
@@ -1620,11 +1619,10 @@
     "id": "LBUtrLDKJiupXjlUNTUe",
     "infected": 11,
     "recovered": 0,
+    "latitude": 18.0708,
     "sick": 11
   },
   {
-    "infected": 56,
-    "recovered": 0,
     "latitude": 47.166,
     "pop": 38557,
     "longitude": 9.5554,
@@ -1633,19 +1631,21 @@
     "lastUpdated": "2020-03-27T05:43:04.511Z",
     "dead": 0,
     "id": "LTGEU2E9MFkrCcFhZYVk",
+    "infected": 56,
+    "recovered": 0,
     "sick": 56
   },
   {
-    "latitude": 9.9456,
-    "pop": 12720000,
-    "longitude": -9.6966,
-    "name": "Guinea",
-    "country": "GN",
     "lastUpdated": "2020-03-27T05:43:04.589Z",
     "dead": 0,
     "id": "LU2QWt5ao8IJa8evNYVV",
     "infected": 4,
     "recovered": 0,
+    "latitude": 9.9456,
+    "pop": 12720000,
+    "longitude": -9.6966,
+    "name": "Guinea",
+    "country": "GN",
     "sick": 4
   },
   {
@@ -1662,6 +1662,8 @@
     "sick": 8
   },
   {
+    "infected": 95,
+    "recovered": 0,
     "latitude": 52.9399,
     "pop": 1174000,
     "longitude": -106.4509,
@@ -1670,11 +1672,12 @@
     "lastUpdated": "2020-03-27T05:54:02.410Z",
     "dead": 0,
     "id": "LkIDKY0CMAqzbwBHyYCP",
-    "infected": 95,
-    "recovered": 0,
     "sick": 95
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.496Z",
+    "dead": 5,
+    "id": "MC8MXFw9iXYybnF8v7e6",
     "infected": 247,
     "recovered": 0,
     "latitude": 37.8393,
@@ -1682,12 +1685,10 @@
     "longitude": -84.27,
     "name": "Kentucky",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.496Z",
-    "dead": 5,
-    "id": "MC8MXFw9iXYybnF8v7e6",
     "sick": 242
   },
   {
+    "recovered": 0,
     "latitude": 40.2672,
     "pop": 6692000,
     "longitude": -86.1349,
@@ -1697,12 +1698,9 @@
     "dead": 17,
     "id": "MOxDkmQ4wBi1CuAdVxDE",
     "infected": 657,
-    "recovered": 0,
     "sick": 640
   },
   {
-    "infected": 96,
-    "recovered": 3,
     "latitude": 7.54,
     "pop": 24290000,
     "longitude": -5.5471,
@@ -1711,9 +1709,13 @@
     "lastUpdated": "2020-03-27T05:43:03.669Z",
     "dead": 0,
     "id": "MdQOfc1gNh2DOqwSP6UV",
+    "infected": 96,
+    "recovered": 3,
     "sick": 93
   },
   {
+    "infected": 10948,
+    "recovered": 837,
     "latitude": 51.4332,
     "pop": 17910000,
     "longitude": 7.6616,
@@ -1722,13 +1724,9 @@
     "lastUpdated": "2020-03-27T05:42:03.724Z",
     "dead": 82,
     "id": "MjpYq3zQyAvSQlVVYjD2",
-    "infected": 10948,
-    "recovered": 837,
     "sick": 10029
   },
   {
-    "latitude": 37.330509,
-    "pop": 6301000,
     "longitude": 105.977203,
     "name": "Ningxia",
     "country": "CN",
@@ -1737,11 +1735,11 @@
     "id": "MntmjjuHljarCdt6aIeE",
     "infected": 75,
     "recovered": 75,
+    "latitude": 37.330509,
+    "pop": 6301000,
     "sick": 0
   },
   {
-    "infected": 8441,
-    "recovered": 285,
     "latitude": 48.6616,
     "pop": 11020000,
     "longitude": 9.3501,
@@ -1750,11 +1748,11 @@
     "lastUpdated": "2020-03-27T05:42:03.644Z",
     "dead": 76,
     "id": "N3XsRBwJSsNclkEf7Zz5",
+    "infected": 8441,
+    "recovered": 285,
     "sick": 8080
   },
   {
-    "infected": 191,
-    "recovered": 2,
     "latitude": 44.696652,
     "pop": 3507000,
     "longitude": 17.824332,
@@ -1763,12 +1761,11 @@
     "lastUpdated": "2020-03-27T05:43:03.636Z",
     "dead": 3,
     "id": "N7c13sCQF0G789XAVazJ",
+    "infected": 191,
+    "recovered": 2,
     "sick": 186
   },
   {
-    "longitude": 111.856857,
-    "name": "Shanxi",
-    "country": "CN",
     "lastUpdated": "2020-03-27T00:45:20.756Z",
     "dead": 0,
     "id": "NBRIGIRrJB1Ry8prDNAC",
@@ -1776,12 +1773,12 @@
     "recovered": 133,
     "latitude": 37.242565,
     "pop": 36500000,
+    "longitude": 111.856857,
+    "name": "Shanxi",
+    "country": "CN",
     "sick": 2
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.315Z",
-    "dead": 3,
-    "id": "NC64Qp5kTqAfiTuR27k8",
     "infected": 755,
     "recovered": 0,
     "latitude": 35.7596,
@@ -1789,11 +1786,12 @@
     "longitude": -79.0193,
     "name": "North Carolina",
     "country": "US",
+    "lastUpdated": "2020-03-27T05:54:02.315Z",
+    "dead": 3,
+    "id": "NC64Qp5kTqAfiTuR27k8",
     "sick": 752
   },
   {
-    "infected": 579,
-    "recovered": 9,
     "latitude": 52.4125,
     "pop": 2504000,
     "longitude": 12.5316,
@@ -1802,12 +1800,11 @@
     "lastUpdated": "2020-03-27T05:42:03.449Z",
     "dead": 1,
     "id": "NJjo2gfBvnbK4xatrsUz",
+    "infected": 579,
+    "recovered": 9,
     "sick": 569
   },
   {
-    "lastUpdated": "2020-03-27T05:56:02.786Z",
-    "dead": 0,
-    "id": "NMeZEcGToxXfpi16PfFV",
     "infected": 5,
     "recovered": 0,
     "latitude": 30.0668,
@@ -1815,9 +1812,14 @@
     "longitude": 79.0193,
     "name": "Uttarakhand",
     "country": "IN",
+    "lastUpdated": "2020-03-27T05:56:02.786Z",
+    "dead": 0,
+    "id": "NMeZEcGToxXfpi16PfFV",
     "sick": 5
   },
   {
+    "infected": 2170,
+    "recovered": 19,
     "latitude": 50.6521,
     "pop": 6243000,
     "longitude": 9.1624,
@@ -1826,8 +1828,6 @@
     "lastUpdated": "2020-03-27T05:42:03.544Z",
     "dead": 6,
     "id": "Nk5vPgUIXsWVfbWZf15O",
-    "infected": 2170,
-    "recovered": 19,
     "sick": 2145
   },
   {
@@ -1844,19 +1844,21 @@
     "sick": 243
   },
   {
-    "id": "O4g88K49HKEZLFXm5gxb",
-    "infected": 3,
-    "recovered": 0,
-    "latitude": 6.4281,
-    "pop": 4732000,
     "longitude": -9.4295,
     "name": "Liberia",
     "country": "LR",
     "lastUpdated": "2020-03-27T05:43:04.538Z",
     "dead": 0,
+    "id": "O4g88K49HKEZLFXm5gxb",
+    "infected": 3,
+    "recovered": 0,
+    "latitude": 6.4281,
+    "pop": 4732000,
     "sick": 3
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.296Z",
+    "dead": 9,
     "id": "ONU4CK8QjViFHKg2w5if",
     "infected": 456,
     "recovered": 0,
@@ -1865,12 +1867,9 @@
     "longitude": -80.525613,
     "name": "South Carolina",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.296Z",
-    "dead": 9,
     "sick": 447
   },
   {
-    "infected": 485,
     "recovered": 0,
     "latitude": 33.51822,
     "pop": 2987000,
@@ -1880,9 +1879,13 @@
     "lastUpdated": "2020-03-27T05:54:02.390Z",
     "dead": 6,
     "id": "OYa0jFzdbAgo8zUsRv6q",
+    "infected": 485,
     "sick": 479
   },
   {
+    "infected": 155,
+    "recovered": 0,
+    "latitude": 45.2538,
     "pop": 1338000,
     "longitude": -69.4455,
     "name": "Maine",
@@ -1890,12 +1893,12 @@
     "lastUpdated": "2020-03-27T05:54:02.471Z",
     "dead": 0,
     "id": "OcXNp9kNVSwrRlG3bNVN",
-    "infected": 155,
-    "recovered": 0,
-    "latitude": 45.2538,
     "sick": 155
   },
   {
+    "lastUpdated": "2020-03-27T05:55:02.834Z",
+    "dead": 0,
+    "id": "OnOseaqWdnuP18oruABW",
     "infected": 40,
     "recovered": 3,
     "latitude": -41.915264,
@@ -1903,9 +1906,6 @@
     "longitude": 146.725256,
     "name": "Tasmania",
     "country": "AU",
-    "lastUpdated": "2020-03-27T05:55:02.834Z",
-    "dead": 0,
-    "id": "OnOseaqWdnuP18oruABW",
     "sick": 37
   },
   {
@@ -1922,19 +1922,20 @@
     "sick": 7
   },
   {
+    "infected": 5,
+    "recovered": 0,
+    "latitude": 16.7424984,
+    "pop": 5900,
     "longitude": -62.1873665,
     "name": "Montserrat",
     "country": "MS",
     "lastUpdated": "2020-03-27T05:43:04.468Z",
     "dead": 0,
     "id": "PEDkeFMTOZpvHiSVxBk7",
-    "infected": 5,
-    "recovered": 0,
-    "latitude": 16.7424984,
-    "pop": 5900,
     "sick": 5
   },
   {
+    "infected": 50,
     "recovered": 0,
     "latitude": -1.9403,
     "pop": 12210000,
@@ -1944,7 +1945,6 @@
     "lastUpdated": "2020-03-27T05:43:04.488Z",
     "dead": 0,
     "id": "PEcgZGEkyhABztt1Ufgc",
-    "infected": 50,
     "sick": 50
   },
   {
@@ -1961,9 +1961,6 @@
     "sick": 342
   },
   {
-    "infected": 2542,
-    "recovered": 0,
-    "latitude": 40.6331,
     "pop": 12740000,
     "longitude": -89.3985,
     "name": "Illinois",
@@ -1971,11 +1968,12 @@
     "lastUpdated": "2020-03-27T05:54:02.493Z",
     "dead": 26,
     "id": "PTwQr9ijo0TBBsPH2sdJ",
+    "infected": 2542,
+    "recovered": 0,
+    "latitude": 40.6331,
     "sick": 2516
   },
   {
-    "infected": 3,
-    "recovered": 1,
     "latitude": 13.909444,
     "pop": 178844,
     "longitude": -60.978893,
@@ -1984,9 +1982,12 @@
     "lastUpdated": "2020-03-27T05:43:04.471Z",
     "dead": 0,
     "id": "PjLqCeFdyzdZNcZxMkK1",
+    "infected": 3,
+    "recovered": 1,
     "sick": 2
   },
   {
+    "id": "Pr76V4raf108uSRoEXac",
     "infected": 197,
     "recovered": 2,
     "latitude": 34.201507,
@@ -1996,10 +1997,10 @@
     "country": "TN",
     "lastUpdated": "2020-03-27T00:58:04.788Z",
     "dead": 6,
-    "id": "Pr76V4raf108uSRoEXac",
     "sick": 189
   },
   {
+    "id": "PuQgOd9KWiMzGZXm11sR",
     "infected": 6,
     "recovered": 0,
     "latitude": -26.5225,
@@ -2009,11 +2010,9 @@
     "country": "SZ",
     "lastUpdated": "2020-03-27T05:43:04.628Z",
     "dead": 0,
-    "id": "PuQgOd9KWiMzGZXm11sR",
     "sick": 6
   },
   {
-    "recovered": 149,
     "latitude": -37.009609,
     "pop": 6359000,
     "longitude": 143.94853,
@@ -2023,6 +2022,7 @@
     "dead": 3,
     "id": "Q18mrGvFWTLX2BU9SqhQ",
     "infected": 520,
+    "recovered": 149,
     "sick": 368
   },
   {
@@ -2052,16 +2052,16 @@
     "sick": 529
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.546Z",
-    "dead": 0,
-    "id": "QlZrE4nosm5WfdA2aCDg",
-    "infected": 1,
-    "recovered": 0,
     "latitude": -6.315,
     "pop": 8251000,
     "longitude": 143.9555,
     "name": "Papua New Guinea",
     "country": "PG",
+    "lastUpdated": "2020-03-27T05:43:04.546Z",
+    "dead": 0,
+    "id": "QlZrE4nosm5WfdA2aCDg",
+    "infected": 1,
+    "recovered": 0,
     "sick": 1
   },
   {
@@ -2078,9 +2078,6 @@
     "sick": 17
   },
   {
-    "infected": 11,
-    "recovered": 0,
-    "latitude": 15.414999,
     "pop": 71937,
     "longitude": -61.3709755,
     "name": "Dominica",
@@ -2088,10 +2085,12 @@
     "lastUpdated": "2020-03-27T05:43:04.433Z",
     "dead": 0,
     "id": "Qy2qW2ep5wltnYjPJBxh",
+    "infected": 11,
+    "recovered": 0,
+    "latitude": 15.414999,
     "sick": 11
   },
   {
-    "recovered": 2,
     "latitude": 8.538,
     "pop": 4099000,
     "longitude": -80.7821,
@@ -2101,9 +2100,11 @@
     "dead": 9,
     "id": "R8YCgephnxTufvcPWMgx",
     "infected": 674,
+    "recovered": 2,
     "sick": 663
   },
   {
+    "latitude": 15.2,
     "pop": 9265000,
     "longitude": -86.2419,
     "name": "Honduras",
@@ -2113,11 +2114,9 @@
     "id": "RA2SE0p2bVhqo0P2hzGY",
     "infected": 67,
     "recovered": 0,
-    "latitude": 15.2,
     "sick": 66
   },
   {
-    "id": "RCrDBCdBNYzgLNr0aB2H",
     "infected": 1223,
     "recovered": 197,
     "latitude": 45.633331,
@@ -2127,9 +2126,13 @@
     "country": "IT",
     "lastUpdated": "2020-03-27T05:46:02.022Z",
     "dead": 72,
+    "id": "RCrDBCdBNYzgLNr0aB2H",
     "sick": 954
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.301Z",
+    "dead": 1,
+    "id": "RX0KDu1AFrlCsrRso0nb",
     "infected": 179,
     "recovered": 0,
     "latitude": 41.878,
@@ -2137,12 +2140,10 @@
     "longitude": -93.0977,
     "name": "Iowa",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.301Z",
-    "dead": 1,
-    "id": "RX0KDu1AFrlCsrRso0nb",
     "sick": 178
   },
   {
+    "id": "Rf4uvBfP3GRDSHdZElRd",
     "infected": 172,
     "recovered": 0,
     "latitude": 39.0119,
@@ -2152,10 +2153,10 @@
     "country": "US",
     "lastUpdated": "2020-03-27T05:54:02.371Z",
     "dead": 3,
-    "id": "Rf4uvBfP3GRDSHdZElRd",
     "sick": 169
   },
   {
+    "id": "RmEgf1xeclWt7XCF9oiR",
     "infected": 5479,
     "recovered": 960,
     "latitude": 48.6998,
@@ -2165,12 +2166,9 @@
     "country": "FR",
     "lastUpdated": "2020-03-27T05:27:15.118Z",
     "dead": 584,
-    "id": "RmEgf1xeclWt7XCF9oiR",
     "sick": 3935
   },
   {
-    "infected": 858,
-    "recovered": 0,
     "latitude": 51.2538,
     "pop": 14570000,
     "longitude": -85.3232,
@@ -2179,11 +2177,11 @@
     "lastUpdated": "2020-03-27T05:54:02.404Z",
     "dead": 13,
     "id": "Rx4TuyMpfGb3S8wYJX0x",
+    "infected": 858,
+    "recovered": 0,
     "sick": 845
   },
   {
-    "infected": 66,
-    "recovered": 13,
     "latitude": 14.652027,
     "pop": 376480,
     "longitude": -61.011715,
@@ -2192,6 +2190,8 @@
     "lastUpdated": "2020-03-27T05:36:29.004Z",
     "dead": 1,
     "id": "SDdefnq1bc3ZNr7SpEsW",
+    "infected": 66,
+    "recovered": 13,
     "sick": 52
   },
   {
@@ -2221,8 +2221,6 @@
     "sick": 11488
   },
   {
-    "latitude": 46.8139,
-    "pop": 8485000,
     "longitude": -71.208,
     "name": "Quebec",
     "country": "CA",
@@ -2231,25 +2229,24 @@
     "id": "SHoOE3NiJgWAlDVBzwYH",
     "infected": 1632,
     "recovered": 0,
+    "latitude": 46.8139,
+    "pop": 8485000,
     "sick": 1624
   },
   {
-    "lastUpdated": "2020-03-27T05:14:10.296Z",
-    "dead": 1,
-    "id": "SMWvuMMuKp2QK7O2tNia",
-    "infected": 86,
-    "recovered": 1,
     "latitude": 42.6026,
     "pop": 1831000,
     "longitude": 20.903,
     "name": "Kosovo",
     "country": "XK",
+    "lastUpdated": "2020-03-27T05:14:10.296Z",
+    "dead": 1,
+    "id": "SMWvuMMuKp2QK7O2tNia",
+    "infected": 86,
+    "recovered": 1,
     "sick": 84
   },
   {
-    "infected": 3,
-    "recovered": 0,
-    "latitude": 15.2993,
     "pop": 1817000,
     "longitude": 74.124,
     "name": "Goa",
@@ -2257,9 +2254,15 @@
     "lastUpdated": "2020-03-27T05:56:02.809Z",
     "dead": 0,
     "id": "SPcujsH2YlUaoAr8AiWF",
+    "infected": 3,
+    "recovered": 0,
+    "latitude": 15.2993,
     "sick": 3
   },
   {
+    "lastUpdated": "2020-03-27T05:46:01.921Z",
+    "dead": 14,
+    "id": "SZdF624x0v1LlyzZjKFu",
     "infected": 393,
     "recovered": 7,
     "latitude": 39,
@@ -2267,40 +2270,35 @@
     "longitude": 16.5,
     "name": "Calabria",
     "country": "IT",
-    "lastUpdated": "2020-03-27T05:46:01.921Z",
-    "dead": 14,
-    "id": "SZdF624x0v1LlyzZjKFu",
     "sick": 372
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.304Z",
-    "dead": 0,
-    "id": "SakhKQzKu1LRI8laqdQq",
-    "infected": 82,
-    "recovered": 0,
     "latitude": 41.4925,
     "pop": 1929000,
     "longitude": -99.9018,
     "name": "Nebraska",
     "country": "US",
+    "lastUpdated": "2020-03-27T05:54:02.304Z",
+    "dead": 0,
+    "id": "SakhKQzKu1LRI8laqdQq",
+    "infected": 82,
+    "recovered": 0,
     "sick": 82
   },
   {
+    "infected": 94,
+    "recovered": 0,
+    "latitude": -21.1151,
+    "pop": 859959,
     "longitude": 55.5364,
     "name": "La Réunion",
     "country": "FR",
     "lastUpdated": "2020-03-27T05:35:57.835Z",
     "dead": 0,
     "id": "SgHzWAAYK1j2sipovxM6",
-    "infected": 94,
-    "recovered": 0,
-    "latitude": -21.1151,
-    "pop": 859959,
     "sick": 94
   },
   {
-    "infected": 98,
-    "recovered": 11,
     "latitude": 12.565679,
     "pop": 16010000,
     "longitude": 104.990967,
@@ -2309,6 +2307,8 @@
     "lastUpdated": "2020-03-27T05:43:03.475Z",
     "dead": 0,
     "id": "SioMALgUbo7peXmbco2f",
+    "infected": 98,
+    "recovered": 11,
     "sick": 87
   },
   {
@@ -2325,32 +2325,33 @@
     "sick": 44
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.179Z",
-    "dead": 3,
-    "id": "T3iRf8mTUTAzbKrORTap",
-    "infected": 51,
-    "recovered": 0,
     "latitude": -4.0383,
     "pop": 81340000,
     "longitude": 21.7587,
     "name": "DR Congo",
     "country": "CD",
+    "lastUpdated": "2020-03-27T05:43:04.179Z",
+    "dead": 3,
+    "id": "T3iRf8mTUTAzbKrORTap",
+    "infected": 51,
+    "recovered": 0,
     "sick": 48
   },
   {
-    "latitude": 23.635796,
-    "pop": 32940000,
-    "longitude": 44.344334,
-    "name": "Saudi Arabia",
-    "country": "SA",
     "lastUpdated": "2020-03-27T05:43:03.553Z",
     "dead": 3,
     "id": "T7NffoeCgTUpAbOHvYwP",
     "infected": 1012,
     "recovered": 33,
+    "latitude": 23.635796,
+    "pop": 32940000,
+    "longitude": 44.344334,
+    "name": "Saudi Arabia",
+    "country": "SA",
     "sick": 976
   },
   {
+    "infected": 114,
     "recovered": 5,
     "latitude": 4.506106,
     "pop": 428697,
@@ -2360,10 +2361,10 @@
     "lastUpdated": "2020-03-27T05:43:03.668Z",
     "dead": 0,
     "id": "TQZmzsLhJqjtCSExAkCP",
-    "infected": 114,
     "sick": 109
   },
   {
+    "infected": 2093,
     "recovered": 496,
     "latitude": 45.4471,
     "pop": 8027000,
@@ -2373,11 +2374,9 @@
     "lastUpdated": "2020-03-27T05:14:34.206Z",
     "dead": 134,
     "id": "TT0MKODSjrxHvG19xZCa",
-    "infected": 2093,
     "sick": 1463
   },
   {
-    "id": "Th4dlpXXmSDgi1OHs36P",
     "infected": 1430,
     "recovered": 0,
     "latitude": 39.318928,
@@ -2387,6 +2386,7 @@
     "country": "US",
     "lastUpdated": "2020-03-27T05:54:02.318Z",
     "dead": 19,
+    "id": "Th4dlpXXmSDgi1OHs36P",
     "sick": 1411
   },
   {
@@ -2416,6 +2416,9 @@
     "sick": 7
   },
   {
+    "lastUpdated": "2020-03-27T05:43:03.643Z",
+    "dead": 41,
+    "id": "Ty1AY3VLPJcRZgdBIERx",
     "infected": 1877,
     "recovered": 1,
     "latitude": 55.675758,
@@ -2423,9 +2426,6 @@
     "longitude": 12.56902,
     "name": "Denmark",
     "country": "DK",
-    "lastUpdated": "2020-03-27T05:43:03.643Z",
-    "dead": 41,
-    "id": "Ty1AY3VLPJcRZgdBIERx",
     "sick": 1835
   },
   {
@@ -2455,6 +2455,7 @@
     "sick": 183
   },
   {
+    "latitude": 36.204823,
     "pop": 126800000,
     "longitude": 138.25293,
     "name": "Japan",
@@ -2464,23 +2465,23 @@
     "id": "U13Gy4BpRLAZ95bPmBXd",
     "infected": 1387,
     "recovered": 359,
-    "latitude": 36.204823,
     "sick": 981
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.610Z",
-    "dead": 0,
-    "id": "UCZXEgnHtxUoChWLR6fQ",
-    "infected": 14,
-    "recovered": 0,
     "latitude": 1.3733,
     "pop": 42860000,
     "longitude": 32.2903,
     "name": "Uganda",
     "country": "UG",
+    "lastUpdated": "2020-03-27T05:43:04.610Z",
+    "dead": 0,
+    "id": "UCZXEgnHtxUoChWLR6fQ",
+    "infected": 14,
+    "recovered": 0,
     "sick": 14
   },
   {
+    "id": "UIbrFy6kiTTF0D37Kqmp",
     "infected": 4,
     "recovered": 0,
     "latitude": -11.2027,
@@ -2490,24 +2491,22 @@
     "country": "AO",
     "lastUpdated": "2020-03-27T05:43:04.620Z",
     "dead": 0,
-    "id": "UIbrFy6kiTTF0D37Kqmp",
     "sick": 4
   },
   {
-    "infected": 603,
-    "recovered": 114,
-    "latitude": 48.202,
-    "pop": 3329000,
     "longitude": -2.9326,
     "name": "Bretagne",
     "country": "FR",
     "lastUpdated": "2020-03-27T05:20:55.485Z",
     "dead": 29,
     "id": "URKMlJ7OTNldjpaxFbjE",
+    "infected": 603,
+    "recovered": 114,
+    "latitude": 48.202,
+    "pop": 3329000,
     "sick": 460
   },
   {
-    "pop": 1822000,
     "longitude": 9.9937,
     "name": "Hamburg",
     "country": "DE",
@@ -2517,6 +2516,7 @@
     "infected": 1614,
     "recovered": 1,
     "latitude": 53.5511,
+    "pop": 1822000,
     "sick": 1612
   },
   {
@@ -2533,7 +2533,6 @@
     "sick": 8
   },
   {
-    "id": "UsxgpiuFCtlR2CW1UUFm",
     "infected": 3,
     "recovered": 0,
     "latitude": 18.0424805,
@@ -2543,19 +2542,20 @@
     "country": "SX",
     "lastUpdated": "2020-03-27T05:43:04.596Z",
     "dead": 0,
+    "id": "UsxgpiuFCtlR2CW1UUFm",
     "sick": 3
   },
   {
+    "lastUpdated": "2020-03-27T05:56:02.776Z",
+    "dead": 0,
+    "id": "V1qE740s3EUGyKGr6SVv",
+    "infected": 1,
     "recovered": 0,
     "latitude": 11.943179,
     "pop": 241773,
     "longitude": 79.808206,
     "name": "Puducherry",
     "country": "IN",
-    "lastUpdated": "2020-03-27T05:56:02.776Z",
-    "dead": 0,
-    "id": "V1qE740s3EUGyKGr6SVv",
-    "infected": 1,
     "sick": 1
   },
   {
@@ -2585,32 +2585,33 @@
     "sick": 64
   },
   {
-    "lastUpdated": "2020-03-27T00:47:02.784Z",
-    "dead": 2,
-    "id": "VIf8T8PD3ZzlzAm5eBCX",
-    "infected": 178,
     "recovered": 172,
     "latitude": 25.181129,
     "pop": 45970000,
     "longitude": 101.864143,
     "name": "Yunnan",
     "country": "CN",
+    "lastUpdated": "2020-03-27T00:47:02.784Z",
+    "dead": 2,
+    "id": "VIf8T8PD3ZzlzAm5eBCX",
+    "infected": 178,
     "sick": 4
   },
   {
+    "infected": 41,
+    "recovered": 11,
+    "latitude": 26.8467,
+    "pop": 204200000,
     "longitude": 80.9462,
     "name": "Uttar Pradesh",
     "country": "IN",
     "lastUpdated": "2020-03-27T05:56:02.807Z",
     "dead": 0,
     "id": "VcKcLdCkC6YpPfIDnRVD",
-    "infected": 41,
-    "recovered": 11,
-    "latitude": 26.8467,
-    "pop": 204200000,
     "sick": 30
   },
   {
+    "id": "WAnbFrEjtZDTCIYBt8rz",
     "infected": 1082,
     "recovered": 224,
     "latitude": 43.8927,
@@ -2620,11 +2621,9 @@
     "country": "FR",
     "lastUpdated": "2020-03-27T05:43:16.378Z",
     "dead": 54,
-    "id": "WAnbFrEjtZDTCIYBt8rz",
     "sick": 804
   },
   {
-    "infected": 134,
     "recovered": 0,
     "latitude": 40.5,
     "pop": 567118,
@@ -2634,9 +2633,12 @@
     "lastUpdated": "2020-03-27T05:46:02.029Z",
     "dead": 1,
     "id": "WD502XimGXnWzqYg7zxL",
+    "infected": 134,
     "sick": 133
   },
   {
+    "infected": 1,
+    "recovered": 0,
     "latitude": 24.6637,
     "pop": 2722000,
     "longitude": 93.9063,
@@ -2645,26 +2647,22 @@
     "lastUpdated": "2020-03-27T05:56:02.752Z",
     "dead": 0,
     "id": "WKsJQmcpWKxnp0nCwN77",
-    "infected": 1,
-    "recovered": 0,
     "sick": 1
   },
   {
+    "infected": 927,
+    "recovered": 12,
+    "latitude": -30.5595,
+    "pop": 56720000,
     "longitude": 22.9375,
     "name": "South Africa",
     "country": "ZA",
     "lastUpdated": "2020-03-27T05:43:03.547Z",
     "dead": 0,
     "id": "Whrue10NtwIObLvFFyBr",
-    "infected": 927,
-    "recovered": 12,
-    "latitude": -30.5595,
-    "pop": 56720000,
     "sick": 915
   },
   {
-    "infected": 3,
-    "recovered": 0,
     "latitude": 13.443182,
     "pop": 2101000,
     "longitude": -15.3101387,
@@ -2673,32 +2671,34 @@
     "lastUpdated": "2020-03-27T05:43:04.460Z",
     "dead": 1,
     "id": "Wk811YwpQxsOCfz8As86",
+    "infected": 3,
+    "recovered": 0,
     "sick": 2
   },
   {
-    "infected": 44,
-    "recovered": 11,
-    "latitude": 23.685,
-    "pop": 164700000,
     "longitude": 90.3563,
     "name": "Bangladesh",
     "country": "BD",
     "lastUpdated": "2020-03-27T05:43:04.505Z",
     "dead": 5,
     "id": "WpLayPPLIJ7VcHZdQaoM",
+    "infected": 44,
+    "recovered": 11,
+    "latitude": 23.685,
+    "pop": 164700000,
     "sick": 28
   },
   {
-    "lastUpdated": "2020-03-27T05:46:01.830Z",
-    "dead": 287,
-    "id": "X2iRhHF6f9pUnJcxPc3J",
-    "infected": 6935,
-    "recovered": 508,
     "latitude": 45.5,
     "pop": 4905000,
     "longitude": 11.75,
     "name": "Veneto",
     "country": "IT",
+    "lastUpdated": "2020-03-27T05:46:01.830Z",
+    "dead": 287,
+    "id": "X2iRhHF6f9pUnJcxPc3J",
+    "infected": 6935,
+    "recovered": 508,
     "sick": 6140
   },
   {
@@ -2715,7 +2715,6 @@
     "sick": 10
   },
   {
-    "infected": 328,
     "recovered": 295,
     "latitude": 25.92448,
     "pop": 38560000,
@@ -2725,6 +2724,7 @@
     "lastUpdated": "2020-03-27T00:47:36.003Z",
     "dead": 1,
     "id": "XBBw0iMPrmiEu3qogkbi",
+    "infected": 328,
     "sick": 32
   },
   {
@@ -2754,7 +2754,6 @@
     "sick": 143
   },
   {
-    "infected": 86,
     "recovered": 17,
     "latitude": 31.9522,
     "pop": 5052000,
@@ -2764,9 +2763,11 @@
     "lastUpdated": "2020-03-27T05:43:04.220Z",
     "dead": 1,
     "id": "YMzKw0SnXG71VT7H1jff",
+    "infected": 86,
     "sick": 68
   },
   {
+    "infected": 56,
     "recovered": 0,
     "latitude": 64.2008,
     "pop": 737438,
@@ -2776,23 +2777,25 @@
     "lastUpdated": "2020-03-27T05:54:02.485Z",
     "dead": 1,
     "id": "YaCODTMD1KKRnrAlkg2u",
-    "infected": 56,
     "sick": 55
   },
   {
-    "infected": 9332,
-    "recovered": 4528,
-    "latitude": 37.568291,
-    "pop": 51470000,
     "longitude": 126.99778,
     "name": "South Korea",
     "country": "KR",
     "lastUpdated": "2020-03-27T05:43:03.538Z",
     "dead": 139,
     "id": "Yw9uBekNlefXBcOCNMfP",
+    "infected": 9332,
+    "recovered": 4528,
+    "latitude": 37.568291,
+    "pop": 51470000,
     "sick": 4665
   },
   {
+    "longitude": -59.543198,
+    "name": "Barbados",
+    "country": "BB",
     "lastUpdated": "2020-03-27T05:43:04.452Z",
     "dead": 0,
     "id": "YzZqZMJGvG6joQCdiuXC",
@@ -2800,12 +2803,12 @@
     "recovered": 0,
     "latitude": 13.193887,
     "pop": 285719,
-    "longitude": -59.543198,
-    "name": "Barbados",
-    "country": "BB",
     "sick": 24
   },
   {
+    "infected": 1221,
+    "recovered": 7,
+    "latitude": 52.2297,
     "pop": 37980000,
     "longitude": 21.0122,
     "name": "Poland",
@@ -2813,13 +2816,9 @@
     "lastUpdated": "2020-03-27T05:43:03.437Z",
     "dead": 16,
     "id": "ZAZNuCK1VweBaTLCFzCk",
-    "infected": 1221,
-    "recovered": 7,
-    "latitude": 52.2297,
     "sick": 1198
   },
   {
-    "infected": 5,
     "recovered": 0,
     "latitude": -17.713371,
     "pop": 905502,
@@ -2829,11 +2828,10 @@
     "lastUpdated": "2020-03-27T05:43:04.448Z",
     "dead": 0,
     "id": "ZmzOT0sJgfWXEpRImItC",
+    "infected": 5,
     "sick": 5
   },
   {
-    "infected": 1012,
-    "recovered": 0,
     "latitude": 41.6032,
     "pop": 3573000,
     "longitude": -73.0877,
@@ -2842,19 +2840,21 @@
     "lastUpdated": "2020-03-27T05:54:02.429Z",
     "dead": 21,
     "id": "Zqy0gftQzocR49jEJNMl",
+    "infected": 1012,
+    "recovered": 0,
     "sick": 991
   },
   {
+    "lastUpdated": "2020-03-27T05:46:01.930Z",
+    "dead": 310,
+    "id": "Zwbjs4XN7P9s849Q3zFj",
+    "infected": 3114,
     "recovered": 9,
     "latitude": 43.616943,
     "pop": 1532000,
     "longitude": 13.516667,
     "name": "Marche",
     "country": "IT",
-    "lastUpdated": "2020-03-27T05:46:01.930Z",
-    "dead": 310,
-    "id": "Zwbjs4XN7P9s849Q3zFj",
-    "infected": 3114,
     "sick": 2795
   },
   {
@@ -2871,8 +2871,6 @@
     "sick": 497
   },
   {
-    "infected": 235,
-    "recovered": 6,
     "latitude": -30.000233,
     "pop": 1677000,
     "longitude": 136.209152,
@@ -2881,9 +2879,13 @@
     "lastUpdated": "2020-03-27T05:55:02.924Z",
     "dead": 0,
     "id": "a9p9pAOsjg1WAjPGc2a6",
+    "infected": 235,
+    "recovered": 6,
     "sick": 229
   },
   {
+    "infected": 520,
+    "recovered": 0,
     "latitude": 37.9643,
     "pop": 6126000,
     "longitude": -91.8318,
@@ -2892,11 +2894,11 @@
     "lastUpdated": "2020-03-27T05:54:02.311Z",
     "dead": 9,
     "id": "aPubGfQ8ToSEuKJldKRT",
-    "infected": 520,
-    "recovered": 0,
     "sick": 511
   },
   {
+    "infected": 254,
+    "recovered": 250,
     "latitude": 23.64407,
     "pop": 48380000,
     "longitude": 108.26651,
@@ -2905,21 +2907,19 @@
     "lastUpdated": "2020-03-27T00:47:28.347Z",
     "dead": 2,
     "id": "aTa8MiBjtH3iY0SRs2HQ",
-    "infected": 254,
-    "recovered": 250,
     "sick": 2
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.626Z",
-    "dead": 0,
-    "id": "adcBUeAYp6ey0ZXCzKNs",
-    "infected": 3,
-    "recovered": 0,
     "latitude": 6.6111,
     "pop": 4659000,
     "longitude": 20.9394,
     "name": "CAR",
     "country": "CF",
+    "lastUpdated": "2020-03-27T05:43:04.626Z",
+    "dead": 0,
+    "id": "adcBUeAYp6ey0ZXCzKNs",
+    "infected": 3,
+    "recovered": 0,
     "sick": 3
   },
   {
@@ -2936,6 +2936,9 @@
     "sick": 458
   },
   {
+    "id": "alj4hkxg9cjrTxOzwFKt",
+    "infected": 566,
+    "recovered": 406,
     "latitude": 39.904202,
     "pop": 21540000,
     "longitude": 116.407394,
@@ -2943,9 +2946,6 @@
     "country": "CN",
     "lastUpdated": "2020-03-27T00:46:49.103Z",
     "dead": 8,
-    "id": "alj4hkxg9cjrTxOzwFKt",
-    "infected": 566,
-    "recovered": 406,
     "sick": 152
   },
   {
@@ -2962,7 +2962,6 @@
     "sick": 241
   },
   {
-    "infected": 105,
     "recovered": 9,
     "latitude": 14.457474,
     "pop": 15850000,
@@ -2972,6 +2971,7 @@
     "lastUpdated": "2020-03-27T05:43:03.613Z",
     "dead": 0,
     "id": "b9p1JhVml3GGC7iiPmKv",
+    "infected": 105,
     "sick": 96
   },
   {
@@ -2988,21 +2988,19 @@
     "sick": 29
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.515Z",
+    "dead": 81,
+    "id": "bYp4RRHv19M7lYtSzQeV",
+    "infected": 6876,
     "recovered": 0,
     "latitude": 39.561889,
     "pop": 8909000,
     "longitude": -74.672169,
     "name": "New Jersey",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.515Z",
-    "dead": 81,
-    "id": "bYp4RRHv19M7lYtSzQeV",
-    "infected": 6876,
     "sick": 6795
   },
   {
-    "infected": 2031,
-    "recovered": 215,
     "latitude": 3.139,
     "pop": 31620000,
     "longitude": 101.6869,
@@ -3011,9 +3009,13 @@
     "lastUpdated": "2020-03-27T05:43:03.587Z",
     "dead": 24,
     "id": "bdqD4kpdqGgUaX70Tm2Q",
+    "infected": 2031,
+    "recovered": 215,
     "sick": 1792
   },
   {
+    "lastUpdated": "2020-03-27T05:43:03.527Z",
+    "dead": 77,
     "id": "bignnyt2A8BBx8VNo32p",
     "infected": 2840,
     "recovered": 16,
@@ -3022,12 +3024,9 @@
     "longitude": 18.643501,
     "name": "Sweden",
     "country": "SE",
-    "lastUpdated": "2020-03-27T05:43:03.527Z",
-    "dead": 77,
     "sick": 2747
   },
   {
-    "id": "cCGmFmwHOoBrEpvG3qBP",
     "infected": 174,
     "recovered": 17,
     "latitude": 40.973765,
@@ -3037,9 +3036,11 @@
     "country": "AL",
     "lastUpdated": "2020-03-27T05:43:03.574Z",
     "dead": 6,
+    "id": "cCGmFmwHOoBrEpvG3qBP",
     "sick": 151
   },
   {
+    "recovered": 0,
     "latitude": 16.871311,
     "pop": 55901000,
     "longitude": 96.199379,
@@ -3049,12 +3050,9 @@
     "dead": 0,
     "id": "cIbchhSBTuxXmXYgpkdB",
     "infected": 5,
-    "recovered": 0,
     "sick": 5
   },
   {
-    "infected": 7,
-    "recovered": 0,
     "latitude": -25.953724,
     "pop": 29670000,
     "longitude": 32.588711,
@@ -3063,12 +3061,11 @@
     "lastUpdated": "2020-03-27T05:43:04.495Z",
     "dead": 0,
     "id": "cO8TChMvQvAtoZMNurTQ",
+    "infected": 7,
+    "recovered": 0,
     "sick": 7
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.414Z",
-    "dead": 0,
-    "id": "cPxONYsVo6BgvCW9HUeQ",
     "infected": 11,
     "recovered": 0,
     "latitude": 46.8625,
@@ -3076,9 +3073,14 @@
     "longitude": 103.8467,
     "name": "Mongolia",
     "country": "MN",
+    "lastUpdated": "2020-03-27T05:43:04.414Z",
+    "dead": 0,
+    "id": "cPxONYsVo6BgvCW9HUeQ",
     "sick": 11
   },
   {
+    "infected": 802,
+    "recovered": 82,
     "latitude": 64.963051,
     "pop": 364260,
     "longitude": -19.020836,
@@ -3087,13 +3089,9 @@
     "lastUpdated": "2020-03-27T05:43:03.610Z",
     "dead": 2,
     "id": "cPxe7nsRnOf6aOPqHElJ",
-    "infected": 802,
-    "recovered": 82,
     "sick": 718
   },
   {
-    "infected": 2693,
-    "recovered": 68,
     "latitude": 31.046051,
     "pop": 8712000,
     "longitude": 34.851612,
@@ -3102,9 +3100,14 @@
     "lastUpdated": "2020-03-27T05:43:03.463Z",
     "dead": 8,
     "id": "cX891t0ONLNFj0MYq6La",
+    "infected": 2693,
+    "recovered": 68,
     "sick": 2617
   },
   {
+    "lastUpdated": "2020-03-27T05:32:23.133Z",
+    "dead": 0,
+    "id": "cc7s6hYGQ2MovBBBgkKb",
     "infected": 28,
     "recovered": 0,
     "latitude": 4.749531,
@@ -3112,9 +3115,6 @@
     "longitude": -53.112909,
     "name": "Guyane",
     "country": "FR",
-    "lastUpdated": "2020-03-27T05:32:23.133Z",
-    "dead": 0,
-    "id": "cc7s6hYGQ2MovBBBgkKb",
     "sick": 28
   },
   {
@@ -3157,34 +3157,32 @@
     "sick": 715
   },
   {
-    "latitude": 40.463669,
-    "pop": 46660000,
-    "longitude": -3.74922,
-    "name": "Spain",
-    "country": "ES",
     "lastUpdated": "2020-03-27T05:43:03.593Z",
     "dead": 4365,
     "id": "d0ExINgPaWUBm3l4ioJL",
     "infected": 57786,
     "recovered": 7015,
+    "latitude": 40.463669,
+    "pop": 46660000,
+    "longitude": -3.74922,
+    "name": "Spain",
+    "country": "ES",
     "sick": 46406
   },
   {
-    "latitude": 42.50837,
-    "pop": 76965,
-    "longitude": 1.517155,
-    "name": "Andorra",
-    "country": "AD",
     "lastUpdated": "2020-03-27T05:43:03.566Z",
     "dead": 3,
     "id": "dedMXSYR2k92wkSXNZqn",
     "infected": 224,
     "recovered": 1,
+    "latitude": 42.50837,
+    "pop": 76965,
+    "longitude": 1.517155,
+    "name": "Andorra",
+    "country": "AD",
     "sick": 220
   },
   {
-    "infected": 143,
-    "recovered": 0,
     "latitude": 38.831163,
     "pop": 967171,
     "longitude": -75.375673,
@@ -3193,11 +3191,11 @@
     "lastUpdated": "2020-03-27T05:54:02.313Z",
     "dead": 1,
     "id": "dzCgqYduzyncjNKU9z6G",
+    "infected": 143,
+    "recovered": 0,
     "sick": 142
   },
   {
-    "latitude": 38.9637,
-    "pop": 80810000,
     "longitude": 35.2433,
     "name": "Turkey",
     "country": "TR",
@@ -3206,12 +3204,11 @@
     "id": "dzIcCaUZlbIXuRw0SyDE",
     "infected": 3629,
     "recovered": 26,
+    "latitude": 38.9637,
+    "pop": 80810000,
     "sick": 3528
   },
   {
-    "lastUpdated": "2020-03-27T05:43:03.497Z",
-    "dead": 49,
-    "id": "e3BtI12qbqhE8jypOoZu",
     "infected": 6909,
     "recovered": 112,
     "latitude": 47.516232,
@@ -3219,9 +3216,15 @@
     "longitude": 14.550072,
     "name": "Austria",
     "country": "AT",
+    "lastUpdated": "2020-03-27T05:43:03.497Z",
+    "dead": 49,
+    "id": "e3BtI12qbqhE8jypOoZu",
     "sick": 6748
   },
   {
+    "infected": 2726,
+    "recovered": 234,
+    "latitude": 52.6367,
     "pop": 7963000,
     "longitude": 9.8451,
     "name": "Niedersachsen",
@@ -3229,22 +3232,19 @@
     "lastUpdated": "2020-03-27T05:42:03.437Z",
     "dead": 10,
     "id": "e3CJgTO8wVbBQZaxqNze",
-    "infected": 2726,
-    "recovered": 234,
-    "latitude": 52.6367,
     "sick": 2482
   },
   {
-    "latitude": 41.097481,
-    "pop": 43900000,
-    "longitude": 122.310669,
-    "name": "Liaoning",
-    "country": "CN",
     "lastUpdated": "2020-03-27T00:46:36.388Z",
     "dead": 2,
     "id": "e7P83iImanpd9r36oXK3",
     "infected": 128,
     "recovered": 124,
+    "latitude": 41.097481,
+    "pop": 43900000,
+    "longitude": 122.310669,
+    "name": "Liaoning",
+    "country": "CN",
     "sick": 2
   },
   {
@@ -3261,6 +3261,7 @@
     "sick": 115
   },
   {
+    "latitude": 42.407211,
     "pop": 6902000,
     "longitude": -71.382439,
     "name": "Massachusetts",
@@ -3270,13 +3271,9 @@
     "id": "eCKDGssww4pF7NrxOySu",
     "infected": 2417,
     "recovered": 0,
-    "latitude": 42.407211,
     "sick": 2392
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.463Z",
-    "dead": 0,
-    "id": "eLgKPNUwYM5MNDAtF6ql",
     "infected": 33,
     "recovered": 1,
     "latitude": 43.740451,
@@ -3284,19 +3281,22 @@
     "longitude": 7.432032,
     "name": "Monaco",
     "country": "MC",
+    "lastUpdated": "2020-03-27T05:43:04.463Z",
+    "dead": 0,
+    "id": "eLgKPNUwYM5MNDAtF6ql",
     "sick": 32
   },
   {
-    "lastUpdated": "2020-03-27T05:17:21.046Z",
-    "dead": 123,
-    "id": "ejrjMKfHexGnK52FS9Aa",
-    "infected": 1569,
     "recovered": 402,
     "latitude": 47.2805,
     "pop": 2686000,
     "longitude": 4.9994,
     "name": "Bourgogne-Franche-Comté",
     "country": "FR",
+    "lastUpdated": "2020-03-27T05:17:21.046Z",
+    "dead": 123,
+    "id": "ejrjMKfHexGnK52FS9Aa",
+    "infected": 1569,
     "sick": 1044
   },
   {
@@ -3339,19 +3339,21 @@
     "sick": 86
   },
   {
-    "infected": 1275,
-    "recovered": 15,
-    "latitude": 51.1045,
-    "pop": 4081000,
     "longitude": 13.2017,
     "name": "Sachsen",
     "country": "DE",
     "lastUpdated": "2020-03-27T05:42:03.719Z",
     "dead": 8,
     "id": "fGqVm2khm3IBRs709S1f",
+    "infected": 1275,
+    "recovered": 15,
+    "latitude": 51.1045,
+    "pop": 4081000,
     "sick": 1252
   },
   {
+    "infected": 3922,
+    "recovered": 0,
     "latitude": 47,
     "longitude": 2,
     "name": "Région non communiquée",
@@ -3359,8 +3361,6 @@
     "dead": 0,
     "lastUpdated": "2020-03-27T05:55:24.233Z",
     "id": "fIp76gl05LhZ0aOxUbhz",
-    "infected": 3922,
-    "recovered": 0,
     "sick": 3922
   },
   {
@@ -3377,6 +3377,9 @@
     "sick": 3
   },
   {
+    "lastUpdated": "2020-03-27T05:43:03.484Z",
+    "dead": 0,
+    "id": "fK06AziL8wyrcoz7rsmJ",
     "infected": 212,
     "recovered": 1,
     "latitude": 31.295929,
@@ -3384,13 +3387,9 @@
     "longitude": 36.691952,
     "name": "Jordan",
     "country": "JO",
-    "lastUpdated": "2020-03-27T05:43:03.484Z",
-    "dead": 0,
-    "id": "fK06AziL8wyrcoz7rsmJ",
     "sick": 211
   },
   {
-    "latitude": 27.716933,
     "pop": 21300000,
     "longitude": -81.555239,
     "name": "Florida",
@@ -3400,21 +3399,25 @@
     "id": "fNganaGVPifA4QahEQPS",
     "infected": 2484,
     "recovered": 0,
+    "latitude": 27.716933,
     "sick": 2455
   },
   {
+    "longitude": 139.664285,
+    "name": "Diamond Princess (Cruise)",
+    "country": "ZZ",
     "dead": 10,
     "lastUpdated": "2020-03-27T00:40:44.024Z",
     "id": "fNnE9CD0SttEVrCUo1Ym",
     "infected": 712,
     "recovered": 587,
     "latitude": 35.452016,
-    "longitude": 139.664285,
-    "name": "Diamond Princess (Cruise)",
-    "country": "ZZ",
     "sick": 115
   },
   {
+    "id": "fOlU5JggPKOO8jbHh5GD",
+    "infected": 1297,
+    "recovered": 117,
     "latitude": 46.0679,
     "pop": 538223,
     "longitude": 11.1211,
@@ -3422,15 +3425,9 @@
     "country": "IT",
     "lastUpdated": "2020-03-27T05:46:01.736Z",
     "dead": 86,
-    "id": "fOlU5JggPKOO8jbHh5GD",
-    "infected": 1297,
-    "recovered": 117,
     "sick": 1094
   },
   {
-    "lastUpdated": "2020-03-27T05:42:03.447Z",
-    "dead": 5,
-    "id": "ffKhENYKy3bwsyBLiYtE",
     "infected": 1937,
     "recovered": 6,
     "latitude": 52.52,
@@ -3438,11 +3435,12 @@
     "longitude": 13.405,
     "name": "Berlin",
     "country": "DE",
+    "lastUpdated": "2020-03-27T05:42:03.447Z",
+    "dead": 5,
+    "id": "ffKhENYKy3bwsyBLiYtE",
     "sick": 1926
   },
   {
-    "infected": 67801,
-    "recovered": 61201,
     "latitude": 31.160629,
     "pop": 58500000,
     "longitude": 112.255402,
@@ -3451,11 +3449,11 @@
     "lastUpdated": "2020-03-27T00:48:14.252Z",
     "dead": 3169,
     "id": "fiJ14DCxw15e3SMemh8R",
+    "infected": 67801,
+    "recovered": 61201,
     "sick": 3431
   },
   {
-    "infected": 196,
-    "recovered": 1,
     "latitude": 50.4501,
     "pop": 42220000,
     "longitude": 30.5234,
@@ -3464,9 +3462,12 @@
     "lastUpdated": "2020-03-27T05:43:03.543Z",
     "dead": 5,
     "id": "flbZ2kaR5kBuV8XZ2Nsu",
+    "infected": 196,
+    "recovered": 1,
     "sick": 190
   },
   {
+    "latitude": 41.2044,
     "pop": 6202000,
     "longitude": 74.7661,
     "name": "Kyrgyzstan",
@@ -3476,10 +3477,12 @@
     "id": "fst48lrFxiMJbQPf4nur",
     "infected": 44,
     "recovered": 0,
-    "latitude": 41.2044,
     "sick": 44
   },
   {
+    "lastUpdated": "2020-03-27T05:43:03.504Z",
+    "dead": 434,
+    "id": "g0lRMtEJbucWIGqSPn0I",
     "infected": 7431,
     "recovered": 3,
     "latitude": 52.132633,
@@ -3487,25 +3490,24 @@
     "longitude": 5.291266,
     "name": "Netherlands",
     "country": "NL",
-    "lastUpdated": "2020-03-27T05:43:03.504Z",
-    "dead": 434,
-    "id": "g0lRMtEJbucWIGqSPn0I",
     "sick": 6994
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.334Z",
-    "dead": 2,
-    "id": "gIdgxJZfTl2QOSYEwMAz",
-    "infected": 349,
-    "recovered": 0,
     "latitude": 34.69522,
     "pop": 3014000,
     "longitude": -92.288012,
     "name": "Arkansas",
     "country": "US",
+    "lastUpdated": "2020-03-27T05:54:02.334Z",
+    "dead": 2,
+    "id": "gIdgxJZfTl2QOSYEwMAz",
+    "infected": 349,
+    "recovered": 0,
     "sick": 347
   },
   {
+    "infected": 5,
+    "recovered": 0,
     "latitude": 4.8604159,
     "pop": 777859,
     "longitude": -58.9301796,
@@ -3514,11 +3516,11 @@
     "lastUpdated": "2020-03-27T05:43:04.599Z",
     "dead": 1,
     "id": "gXd2X2PjmGP0XVwxpWqT",
-    "infected": 5,
-    "recovered": 0,
     "sick": 4
   },
   {
+    "infected": 46,
+    "recovered": 0,
     "latitude": 43.9695,
     "pop": 882235,
     "longitude": -99.9018,
@@ -3527,24 +3529,24 @@
     "lastUpdated": "2020-03-27T05:54:02.361Z",
     "dead": 1,
     "id": "gYDsNgvuvtbg8t77w6FS",
-    "infected": 46,
-    "recovered": 0,
     "sick": 45
   },
   {
+    "pop": 493559,
+    "longitude": 14.432846,
+    "name": "Malta",
+    "country": "MT",
     "lastUpdated": "2020-03-27T05:43:03.510Z",
     "dead": 0,
     "id": "h9UqxYZ5xC4JZrmdDz0q",
     "infected": 134,
     "recovered": 2,
     "latitude": 35.894231,
-    "pop": 493559,
-    "longitude": 14.432846,
-    "name": "Malta",
-    "country": "MT",
     "sick": 132
   },
   {
+    "latitude": 28.7041,
+    "pop": 18980000,
     "longitude": 77.1025,
     "name": "Delhi",
     "country": "IN",
@@ -3553,8 +3555,6 @@
     "id": "hqwsh1rmvkWI3LFUVuMk",
     "infected": 36,
     "recovered": 6,
-    "latitude": 28.7041,
-    "pop": 18980000,
     "sick": 29
   },
   {
@@ -3571,9 +3571,6 @@
     "sick": 13
   },
   {
-    "recovered": 0,
-    "latitude": 34.8021,
-    "pop": 18270000,
     "longitude": 38.9968,
     "name": "Syria",
     "country": "SY",
@@ -3581,6 +3578,9 @@
     "dead": 0,
     "id": "iHf1IZQP3CA3sT2erzyh",
     "infected": 5,
+    "recovered": 0,
+    "latitude": 34.8021,
+    "pop": 18270000,
     "sick": 5
   },
   {
@@ -3597,18 +3597,21 @@
     "sick": 126
   },
   {
-    "dead": 0,
-    "lastUpdated": "2020-03-27T05:43:03.470Z",
-    "id": "iwcBlwhnL6MDiXogzf8g",
     "infected": 0,
     "recovered": 170,
     "latitude": -25.2744,
     "longitude": 133.7751,
     "name": "Unknown Australian state",
     "country": "AU",
+    "dead": 0,
+    "lastUpdated": "2020-03-27T05:43:03.470Z",
+    "id": "iwcBlwhnL6MDiXogzf8g",
     "sick": 0
   },
   {
+    "lastUpdated": "2020-03-27T05:32:38.742Z",
+    "dead": 0,
+    "id": "j8eMjjqNAqHAJhAKdBYN",
     "infected": 76,
     "recovered": 4,
     "latitude": 16.265,
@@ -3616,48 +3619,45 @@
     "longitude": -61.551,
     "name": "Guadeloupe",
     "country": "FR",
-    "lastUpdated": "2020-03-27T05:32:38.742Z",
-    "dead": 0,
-    "id": "j8eMjjqNAqHAJhAKdBYN",
     "sick": 72
   },
   {
-    "longitude": 7.309,
-    "name": "Rheinland-Pfalz",
-    "country": "DE",
-    "lastUpdated": "2020-03-27T05:42:03.541Z",
-    "dead": 8,
     "id": "jKn2pIFlIBScjb47GjRX",
     "infected": 1873,
     "recovered": 7,
     "latitude": 50.1183,
     "pop": 4074000,
+    "longitude": 7.309,
+    "name": "Rheinland-Pfalz",
+    "country": "DE",
+    "lastUpdated": "2020-03-27T05:42:03.541Z",
+    "dead": 8,
     "sick": 1858
   },
   {
-    "lastUpdated": "2020-03-27T00:46:22.051Z",
-    "dead": 3,
-    "id": "jMlHjIOb7eMPSxFBrmG1",
-    "infected": 151,
-    "recovered": 133,
     "latitude": 39.343357,
     "pop": 15000000,
     "longitude": 117.361649,
     "name": "Tianjin",
     "country": "CN",
+    "lastUpdated": "2020-03-27T00:46:22.051Z",
+    "dead": 3,
+    "id": "jMlHjIOb7eMPSxFBrmG1",
+    "infected": 151,
+    "recovered": 133,
     "sick": 15
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.483Z",
-    "dead": 0,
-    "id": "jOc8JUDWxCmquh49oZxV",
-    "infected": 2,
-    "recovered": 0,
     "latitude": 17.1898766,
     "pop": 397000,
     "longitude": -88.4976501,
     "name": "Belize",
     "country": "BZ",
+    "lastUpdated": "2020-03-27T05:43:04.483Z",
+    "dead": 0,
+    "id": "jOc8JUDWxCmquh49oZxV",
+    "infected": 2,
+    "recovered": 0,
     "sick": 2
   },
   {
@@ -3674,6 +3674,7 @@
     "sick": 149
   },
   {
+    "recovered": 5,
     "latitude": 53.3498,
     "pop": 4830000,
     "longitude": -6.2603,
@@ -3683,36 +3684,38 @@
     "dead": 19,
     "id": "jpVXEDCyfyq26gPoCtHL",
     "infected": 1819,
-    "recovered": 5,
     "sick": 1795
   },
   {
-    "lastUpdated": "2020-03-27T05:46:01.833Z",
-    "dead": 19,
-    "id": "kF99avagXvBfZTHv9ETi",
-    "infected": 494,
     "recovered": 13,
     "latitude": 40.078072,
     "pop": 1648000,
     "longitude": 9.283447,
     "name": "Sardegna",
     "country": "IT",
+    "lastUpdated": "2020-03-27T05:46:01.833Z",
+    "dead": 19,
+    "id": "kF99avagXvBfZTHv9ETi",
+    "infected": 494,
     "sick": 462
   },
   {
-    "latitude": 11.572076,
-    "pop": 956985,
-    "longitude": 43.145645,
-    "name": "Djibouti",
-    "country": "DJ",
     "lastUpdated": "2020-03-27T05:43:04.420Z",
     "dead": 0,
     "id": "l4nYeaqwy2yrEVqnijFj",
     "infected": 11,
     "recovered": 0,
+    "latitude": 11.572076,
+    "pop": 956985,
+    "longitude": 43.145645,
+    "name": "Djibouti",
+    "country": "DJ",
     "sick": 11
   },
   {
+    "lastUpdated": "2020-03-27T05:54:02.433Z",
+    "dead": 3,
+    "id": "l7fHSKOmcaRX3tq9FCT6",
     "infected": 191,
     "recovered": 0,
     "latitude": 44.0682,
@@ -3720,13 +3723,9 @@
     "longitude": -114.742,
     "name": "Idaho",
     "country": "US",
-    "lastUpdated": "2020-03-27T05:54:02.433Z",
-    "dead": 3,
-    "id": "l7fHSKOmcaRX3tq9FCT6",
     "sick": 188
   },
   {
-    "recovered": 22,
     "latitude": 40.816666,
     "pop": 4048000,
     "longitude": 16.549999,
@@ -3736,6 +3735,7 @@
     "dead": 65,
     "id": "lAKH5Wfg4GhaM54VElFN",
     "infected": 1182,
+    "recovered": 22,
     "sick": 1095
   },
   {
@@ -3765,16 +3765,16 @@
     "sick": 4
   },
   {
-    "infected": 76,
-    "recovered": 73,
-    "latitude": 42.524635,
-    "pop": 21810000,
     "longitude": 87.539589,
     "name": "Xinjiang",
     "country": "CN",
     "lastUpdated": "2020-03-27T00:44:54.317Z",
     "dead": 3,
     "id": "lhPjpn6CzqTRDN0RW8uE",
+    "infected": 76,
+    "recovered": 73,
+    "latitude": 42.524635,
+    "pop": 21810000,
     "sick": 0
   },
   {
@@ -3791,8 +3791,6 @@
     "sick": 5
   },
   {
-    "latitude": 41.9029,
-    "pop": 1000,
     "longitude": 12.4534,
     "name": "Vatican City",
     "country": "VA",
@@ -3801,10 +3799,11 @@
     "id": "mF7rVMdVnazAuw8G22xs",
     "infected": 4,
     "recovered": 0,
+    "latitude": 41.9029,
+    "pop": 1000,
     "sick": 4
   },
   {
-    "id": "mJtdLs4ub6CkcAOeMWUm",
     "infected": 130,
     "recovered": 15,
     "latitude": 19.7515,
@@ -3814,6 +3813,7 @@
     "country": "IN",
     "lastUpdated": "2020-03-27T05:56:02.877Z",
     "dead": 4,
+    "id": "mJtdLs4ub6CkcAOeMWUm",
     "sick": 111
   },
   {
@@ -3830,8 +3830,6 @@
     "sick": 1280
   },
   {
-    "infected": 13,
-    "recovered": 0,
     "latitude": -6.369,
     "pop": 57310000,
     "longitude": 34.8888,
@@ -3840,9 +3838,12 @@
     "lastUpdated": "2020-03-27T05:43:04.246Z",
     "dead": 0,
     "id": "mnew3ojzmWV0dWSPfCQ9",
+    "infected": 13,
+    "recovered": 0,
     "sick": 13
   },
   {
+    "infected": 6,
     "recovered": 0,
     "latitude": 15.1794,
     "pop": 4475000,
@@ -3852,10 +3853,11 @@
     "lastUpdated": "2020-03-27T05:43:04.475Z",
     "dead": 0,
     "id": "n6OSwOVBdUie3xeZJmOf",
-    "infected": 6,
     "sick": 6
   },
   {
+    "latitude": 35.693323,
+    "pop": 6770000,
     "longitude": -86.605748,
     "name": "Tennessee",
     "country": "US",
@@ -3864,13 +3866,9 @@
     "id": "nLhJXE2apq8yNNj363ai",
     "infected": 1097,
     "recovered": 0,
-    "latitude": 35.693323,
-    "pop": 6770000,
     "sick": 1094
   },
   {
-    "infected": 7,
-    "recovered": 0,
     "latitude": -4.6796,
     "pop": 95843,
     "longitude": 55.492,
@@ -3879,10 +3877,11 @@
     "lastUpdated": "2020-03-27T05:43:04.609Z",
     "dead": 0,
     "id": "oB5fSyjWJ0FbNAkssuci",
+    "infected": 7,
+    "recovered": 0,
     "sick": 7
   },
   {
-    "latitude": 31.893778,
     "pop": 35740000,
     "longitude": -6.196132,
     "name": "Morocco",
@@ -3892,9 +3891,13 @@
     "id": "oJ5vSDE9vgXC2PG8LElp",
     "infected": 275,
     "recovered": 8,
+    "latitude": 31.893778,
     "sick": 256
   },
   {
+    "lastUpdated": "2020-03-27T05:33:39.014Z",
+    "dead": 150,
+    "id": "ofWLu9EuQoK2nHjwU1mA",
     "infected": 1753,
     "recovered": 360,
     "latitude": 50.4801,
@@ -3902,12 +3905,10 @@
     "longitude": 2.7937,
     "name": "Hauts-de-France",
     "country": "FR",
-    "lastUpdated": "2020-03-27T05:33:39.014Z",
-    "dead": 150,
-    "id": "ofWLu9EuQoK2nHjwU1mA",
     "sick": 1243
   },
   {
+    "recovered": 0,
     "latitude": 31.1048,
     "pop": 6856000,
     "longitude": 77.1734,
@@ -3917,10 +3918,12 @@
     "dead": 1,
     "id": "oqLEd2Z9P3FJeQsfIk8e",
     "infected": 3,
-    "recovered": 0,
     "sick": 2
   },
   {
+    "lastUpdated": "2020-03-27T05:55:02.829Z",
+    "dead": 1,
+    "id": "oxz2l1rJipCsfMfy8Mmk",
     "infected": 493,
     "recovered": 8,
     "latitude": -20.917574,
@@ -3928,22 +3931,19 @@
     "longitude": 142.702789,
     "name": "Queensland",
     "country": "AU",
-    "lastUpdated": "2020-03-27T05:55:02.829Z",
-    "dead": 1,
-    "id": "oxz2l1rJipCsfMfy8Mmk",
     "sick": 484
   },
   {
+    "infected": 484,
+    "recovered": 469,
+    "latitude": 47.121647,
+    "pop": 38310000,
     "longitude": 128.738235,
     "name": "Heilongjiang",
     "country": "CN",
     "lastUpdated": "2020-03-27T00:46:30.337Z",
     "dead": 13,
     "id": "p1aZboN4BtRJe7hPl8cw",
-    "infected": 484,
-    "recovered": 469,
-    "latitude": 47.121647,
-    "pop": 38310000,
     "sick": 2
   },
   {
@@ -3973,19 +3973,21 @@
     "sick": 2
   },
   {
-    "id": "pu6AXEsDnpmmqnhajobN",
-    "infected": 6,
-    "recovered": 0,
-    "latitude": 21.2787,
     "pop": 25550000,
     "longitude": 81.8661,
     "name": "Chhattisgarh",
     "country": "IN",
     "lastUpdated": "2020-03-27T05:56:02.792Z",
     "dead": 0,
+    "id": "pu6AXEsDnpmmqnhajobN",
+    "infected": 6,
+    "recovered": 0,
+    "latitude": 21.2787,
     "sick": 6
   },
   {
+    "infected": 267,
+    "recovered": 0,
     "latitude": 38.9072,
     "pop": 633427,
     "longitude": -77.0369,
@@ -3994,13 +3996,9 @@
     "lastUpdated": "2020-03-27T05:54:02.520Z",
     "dead": 3,
     "id": "q5cfvHprVTraL1yXnhDx",
-    "infected": 267,
-    "recovered": 0,
     "sick": 264
   },
   {
-    "lastUpdated": "2020-03-27T05:55:02.750Z",
-    "dead": 2,
     "id": "qnQ0dkxAxnDP01YpdZgk",
     "infected": 231,
     "recovered": 1,
@@ -4009,10 +4007,11 @@
     "longitude": 123.325947,
     "name": "Western Australia",
     "country": "AU",
+    "lastUpdated": "2020-03-27T05:55:02.750Z",
+    "dead": 2,
     "sick": 228
   },
   {
-    "infected": 6235,
     "recovered": 675,
     "latitude": 50.503887,
     "pop": 11400000,
@@ -4022,6 +4021,7 @@
     "lastUpdated": "2020-03-27T05:43:03.634Z",
     "dead": 220,
     "id": "qpAxVz0garcS0gNZxtOw",
+    "infected": 6235,
     "sick": 5340
   },
   {
@@ -4038,19 +4038,22 @@
     "sick": 76
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.285Z",
-    "dead": 24,
-    "id": "qsrWiq0qCmIG66hpWojP",
-    "infected": 1654,
-    "recovered": 0,
     "latitude": 31,
     "pop": 28700000,
     "longitude": -100,
     "name": "Texas",
     "country": "US",
+    "lastUpdated": "2020-03-27T05:54:02.285Z",
+    "dead": 24,
+    "id": "qsrWiq0qCmIG66hpWojP",
+    "infected": 1654,
+    "recovered": 0,
     "sick": 1630
   },
   {
+    "lastUpdated": "2020-03-27T05:50:04.288Z",
+    "dead": 44,
+    "id": "qyX9xXEuKg3co8yKe3Fl",
     "infected": 1927,
     "recovered": 599,
     "latitude": 43.9352,
@@ -4058,15 +4061,9 @@
     "longitude": 6.0679,
     "name": "Provence-Alpes-Côte d’Azur",
     "country": "FR",
-    "lastUpdated": "2020-03-27T05:50:04.288Z",
-    "dead": 44,
-    "id": "qyX9xXEuKg3co8yKe3Fl",
     "sick": 1284
   },
   {
-    "id": "qzuktS0qQVU4PEookjss",
-    "infected": 2304,
-    "recovered": 0,
     "latitude": 30.9843,
     "pop": 4660000,
     "longitude": -91.9623,
@@ -4074,6 +4071,9 @@
     "country": "US",
     "lastUpdated": "2020-03-27T05:54:02.522Z",
     "dead": 83,
+    "id": "qzuktS0qQVU4PEookjss",
+    "infected": 2304,
+    "recovered": 0,
     "sick": 2221
   },
   {
@@ -4103,6 +4103,8 @@
     "sick": 27
   },
   {
+    "infected": 153,
+    "recovered": 20,
     "latitude": 14.058324,
     "pop": 95540000,
     "longitude": 108.277199,
@@ -4111,13 +4113,9 @@
     "lastUpdated": "2020-03-27T05:43:03.491Z",
     "dead": 0,
     "id": "rKnSEyG03ak4YmGzonlg",
-    "infected": 153,
-    "recovered": 20,
     "sick": 133
   },
   {
-    "infected": 12,
-    "recovered": 0,
     "latitude": 1.6508009,
     "pop": 1268000,
     "longitude": 10.2678947,
@@ -4126,6 +4124,8 @@
     "lastUpdated": "2020-03-27T05:43:04.491Z",
     "dead": 0,
     "id": "rS04qvFoAknfeZsL2w5f",
+    "infected": 12,
+    "recovered": 0,
     "sick": 12
   },
   {
@@ -4168,22 +4168,19 @@
     "sick": 378
   },
   {
+    "infected": 3372,
+    "recovered": 6,
+    "latitude": 60.472023,
+    "pop": 5368000,
     "longitude": 8.468946,
     "name": "Norway",
     "country": "NO",
     "lastUpdated": "2020-03-27T05:43:03.584Z",
     "dead": 14,
     "id": "rxSafpWsyKhfkV0HTtb4",
-    "infected": 3372,
-    "recovered": 6,
-    "latitude": 60.472023,
-    "pop": 5368000,
     "sick": 3352
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.321Z",
-    "dead": 2,
-    "id": "sBFMOzZJdrdXdyLZpweO",
     "infected": 486,
     "recovered": 0,
     "latitude": 53.9333,
@@ -4191,9 +4188,14 @@
     "longitude": -116.5765,
     "name": "Alberta",
     "country": "CA",
+    "lastUpdated": "2020-03-27T05:54:02.321Z",
+    "dead": 2,
+    "id": "sBFMOzZJdrdXdyLZpweO",
     "sick": 484
   },
   {
+    "infected": 168,
+    "recovered": 161,
     "latitude": 19.566395,
     "pop": 9258000,
     "longitude": 109.949684,
@@ -4202,12 +4204,9 @@
     "lastUpdated": "2020-03-27T00:46:41.836Z",
     "dead": 6,
     "id": "sKNhMvgXeyivpNFg02RA",
-    "infected": 168,
-    "recovered": 161,
     "sick": 1
   },
   {
-    "latitude": -10.33755,
     "pop": 32170000,
     "longitude": -75.630295,
     "name": "Peru",
@@ -4217,6 +4216,7 @@
     "id": "sLL1jETcJYjT6g5bfcEG",
     "infected": 580,
     "recovered": 14,
+    "latitude": -10.33755,
     "sick": 557
   },
   {
@@ -4233,8 +4233,6 @@
     "sick": 3
   },
   {
-    "infected": 79,
-    "recovered": 11,
     "latitude": 42.3154,
     "pop": 3717000,
     "longitude": 43.3569,
@@ -4243,19 +4241,21 @@
     "lastUpdated": "2020-03-27T05:43:04.577Z",
     "dead": 0,
     "id": "sjW9OwjFqrOvjVHRXWoR",
+    "infected": 79,
+    "recovered": 11,
     "sick": 68
   },
   {
+    "infected": 52,
+    "recovered": 1,
+    "latitude": -23.4425,
+    "pop": 6811000,
     "longitude": -58.4438,
     "name": "Paraguay",
     "country": "PY",
     "lastUpdated": "2020-03-27T05:43:04.605Z",
     "dead": 3,
     "id": "t2fq7L9UcXfhuXfQNVRj",
-    "infected": 52,
-    "recovered": 1,
-    "latitude": -23.4425,
-    "pop": 6811000,
     "sick": 48
   },
   {
@@ -4285,6 +4285,8 @@
     "sick": 0
   },
   {
+    "infected": 146,
+    "recovered": 144,
     "latitude": 26.842964,
     "pop": 34750000,
     "longitude": 107.290283,
@@ -4293,11 +4295,12 @@
     "lastUpdated": "2020-03-27T00:45:08.249Z",
     "dead": 2,
     "id": "tyY4QSHWG9sXqSO9jm0Y",
-    "infected": 146,
-    "recovered": 144,
     "sick": 0
   },
   {
+    "lastUpdated": "2020-03-27T05:43:04.477Z",
+    "dead": 2,
+    "id": "uZg9Xtu4zR5tp12TMpOQ",
     "infected": 81,
     "recovered": 0,
     "latitude": -20.2067,
@@ -4305,15 +4308,9 @@
     "longitude": 57.6755,
     "name": "Mauritius",
     "country": "MU",
-    "lastUpdated": "2020-03-27T05:43:04.477Z",
-    "dead": 2,
-    "id": "uZg9Xtu4zR5tp12TMpOQ",
     "sick": 79
   },
   {
-    "lastUpdated": "2020-03-27T05:56:02.862Z",
-    "dead": 0,
-    "id": "ubUuY89n0cXVgahI4Ytp",
     "infected": 30,
     "recovered": 11,
     "latitude": 29.0588,
@@ -4321,6 +4318,9 @@
     "longitude": 76.0856,
     "name": "Haryana",
     "country": "IN",
+    "lastUpdated": "2020-03-27T05:56:02.862Z",
+    "dead": 0,
+    "id": "ubUuY89n0cXVgahI4Ytp",
     "sick": 19
   },
   {
@@ -4337,8 +4337,6 @@
     "sick": 81
   },
   {
-    "lastUpdated": "2020-03-27T00:45:36.867Z",
-    "dead": 0,
     "id": "uvxN28EpGmRq3K9REtBP",
     "infected": 640,
     "recovered": 631,
@@ -4347,10 +4345,11 @@
     "longitude": 119.151932,
     "name": "Jiangsu",
     "country": "CN",
+    "lastUpdated": "2020-03-27T00:45:36.867Z",
+    "dead": 0,
     "sick": 9
   },
   {
-    "recovered": 21,
     "latitude": 51.9503,
     "pop": 2277000,
     "longitude": 11.6923,
@@ -4360,22 +4359,24 @@
     "dead": 2,
     "id": "uxAceZxiizwmo60pyyGn",
     "infected": 500,
+    "recovered": 21,
     "sick": 477
   },
   {
-    "lastUpdated": "2020-03-27T05:56:02.853Z",
-    "dead": 1,
-    "id": "v5wfBhxjYTpTMaKko6AW",
-    "infected": 13,
     "recovered": 1,
     "latitude": 33.7782,
     "pop": 12550000,
     "longitude": 76.5762,
     "name": "Jammu and Kashmir",
     "country": "IN",
+    "lastUpdated": "2020-03-27T05:56:02.853Z",
+    "dead": 1,
+    "id": "v5wfBhxjYTpTMaKko6AW",
+    "infected": 13,
     "sick": 11
   },
   {
+    "latitude": 26.820553,
     "pop": 97550000,
     "longitude": 30.802498,
     "name": "Egypt",
@@ -4385,20 +4386,19 @@
     "id": "v8JcH4FHH7BDpJlNNHjv",
     "infected": 495,
     "recovered": 102,
-    "latitude": 26.820553,
     "sick": 369
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.413Z",
-    "dead": 150,
-    "id": "vCUVQn7RK8pkw5y2rvYN",
-    "infected": 3207,
-    "recovered": 0,
     "latitude": 47.288374,
     "pop": 7536000,
     "longitude": -119.928431,
     "name": "Washington",
     "country": "US",
+    "lastUpdated": "2020-03-27T05:54:02.413Z",
+    "dead": 150,
+    "id": "vCUVQn7RK8pkw5y2rvYN",
+    "infected": 3207,
+    "recovered": 0,
     "sick": 3057
   },
   {
@@ -4428,6 +4428,7 @@
     "sick": 530
   },
   {
+    "infected": 7660,
     "recovered": 1310,
     "latitude": 48.8499,
     "pop": 12210000,
@@ -4437,13 +4438,9 @@
     "lastUpdated": "2020-03-27T05:10:30.906Z",
     "dead": 460,
     "id": "vSwFXxTSLgzsG25zOJUy",
-    "infected": 7660,
     "sick": 5890
   },
   {
-    "lastUpdated": "2020-03-27T05:54:02.475Z",
-    "dead": 0,
-    "id": "vjK6292ALJl5wq8XHw3P",
     "infected": 9,
     "recovered": 0,
     "latitude": 46.5107,
@@ -4451,6 +4448,9 @@
     "longitude": -63.4168,
     "name": "Prince Edward Island",
     "country": "CA",
+    "lastUpdated": "2020-03-27T05:54:02.475Z",
+    "dead": 0,
+    "id": "vjK6292ALJl5wq8XHw3P",
     "sick": 9
   },
   {
@@ -4467,9 +4467,6 @@
     "sick": 16715
   },
   {
-    "infected": 36,
-    "recovered": 0,
-    "latitude": 53.7609,
     "pop": 1369000,
     "longitude": -98.8139,
     "name": "Manitoba",
@@ -4477,22 +4474,28 @@
     "lastUpdated": "2020-03-27T05:54:02.288Z",
     "dead": 0,
     "id": "wCnlOr8oX3DlF0otQrFc",
+    "infected": 36,
+    "recovered": 0,
+    "latitude": 53.7609,
     "sick": 36
   },
   {
-    "latitude": -34.6037,
-    "pop": 44270000,
-    "longitude": -58.3816,
-    "name": "Argentina",
-    "country": "AR",
     "lastUpdated": "2020-03-27T05:43:03.461Z",
     "dead": 12,
     "id": "wEl0cjiA6OcZiI9kaSsF",
     "infected": 589,
     "recovered": 72,
+    "latitude": -34.6037,
+    "pop": 44270000,
+    "longitude": -58.3816,
+    "name": "Argentina",
+    "country": "AR",
     "sick": 505
   },
   {
+    "lastUpdated": "2020-03-27T01:09:01.988Z",
+    "dead": 61,
+    "id": "wgRwpPMGBaKLAl1xo1C7",
     "infected": 2845,
     "recovered": 0,
     "latitude": 44.3148,
@@ -4500,9 +4503,6 @@
     "longitude": -85.6024,
     "name": "Michigan",
     "country": "US",
-    "lastUpdated": "2020-03-27T01:09:01.988Z",
-    "dead": 61,
-    "id": "wgRwpPMGBaKLAl1xo1C7",
     "sick": 2784
   },
   {
@@ -4519,8 +4519,6 @@
     "sick": 106
   },
   {
-    "infected": 2096,
-    "recovered": 155,
     "latitude": 41.9,
     "pop": 5897000,
     "longitude": 12.7167,
@@ -4529,6 +4527,8 @@
     "lastUpdated": "2020-03-27T05:46:02.126Z",
     "dead": 106,
     "id": "wj8SKMWy2gkQBhGU3R3L",
+    "infected": 2096,
+    "recovered": 155,
     "sick": 1835
   },
   {
@@ -4545,6 +4545,8 @@
     "sick": 339
   },
   {
+    "infected": 65,
+    "recovered": 3,
     "latitude": 9.081999,
     "pop": 190900000,
     "longitude": 8.675277,
@@ -4553,24 +4555,23 @@
     "lastUpdated": "2020-03-27T05:43:04.624Z",
     "dead": 1,
     "id": "xHWPTTpNHEwWv6MqfxP5",
-    "infected": 65,
-    "recovered": 3,
     "sick": 61
   },
   {
+    "infected": 57,
+    "recovered": 0,
+    "latitude": 47.5515,
+    "pop": 760077,
     "longitude": -101.002,
     "name": "North Dakota",
     "country": "US",
     "lastUpdated": "2020-03-27T05:54:02.357Z",
     "dead": 0,
     "id": "xQpNodSQfHNHAtG9Onnj",
-    "infected": 57,
-    "recovered": 0,
-    "latitude": 47.5515,
-    "pop": 760077,
     "sick": 57
   },
   {
+    "infected": 728,
     "recovered": 0,
     "latitude": 44.5,
     "pop": 5814000,
@@ -4580,10 +4581,11 @@
     "lastUpdated": "2020-03-27T05:54:02.421Z",
     "dead": 10,
     "id": "xSHgaJlyPxHFWB6hhyng",
-    "infected": 728,
     "sick": 718
   },
   {
+    "infected": 12,
+    "recovered": 0,
     "latitude": 9.145,
     "pop": 105000000,
     "longitude": 40.4897,
@@ -4592,8 +4594,6 @@
     "lastUpdated": "2020-03-27T05:43:04.411Z",
     "dead": 0,
     "id": "xY69Nr3VSiZCwD2Qp0SD",
-    "infected": 12,
-    "recovered": 0,
     "sick": 12
   },
   {
@@ -4623,19 +4623,21 @@
     "sick": 6
   },
   {
-    "longitude": 8.8017,
-    "name": "Bremen",
-    "country": "DE",
-    "lastUpdated": "2020-03-27T05:42:03.426Z",
-    "dead": 1,
     "id": "y0d3PQgXJXdKsxweTIWv",
     "infected": 244,
     "recovered": 40,
     "latitude": 53.0793,
     "pop": 547976,
+    "longitude": 8.8017,
+    "name": "Bremen",
+    "country": "DE",
+    "lastUpdated": "2020-03-27T05:42:03.426Z",
+    "dead": 1,
     "sick": 203
   },
   {
+    "infected": 30,
+    "recovered": 0,
     "latitude": -17.6797,
     "pop": 283007,
     "longitude": -149.4068,
@@ -4644,14 +4646,9 @@
     "lastUpdated": "2020-03-27T05:43:04.591Z",
     "dead": 0,
     "id": "yOfFKDRrscqcZ85WMRqF",
-    "infected": 30,
-    "recovered": 0,
     "sick": 30
   },
   {
-    "lastUpdated": "2020-03-27T05:46:01.928Z",
-    "dead": 33,
-    "id": "yYMgPL4mCWnsSYZdqnAj",
     "infected": 1164,
     "recovered": 36,
     "latitude": 37.5,
@@ -4659,25 +4656,25 @@
     "longitude": 15.090278,
     "name": "Sicilia",
     "country": "IT",
+    "lastUpdated": "2020-03-27T05:46:01.928Z",
+    "dead": 33,
+    "id": "yYMgPL4mCWnsSYZdqnAj",
     "sick": 1095
   },
   {
-    "lastUpdated": "2020-03-27T05:43:04.568Z",
-    "dead": 1,
-    "id": "z0KDu61I2qPILneW2Lih",
-    "infected": 7,
-    "recovered": 2,
     "latitude": 12.1696,
     "pop": 161014,
     "longitude": -68.99,
     "name": "Curaçao",
     "country": "CW",
+    "lastUpdated": "2020-03-27T05:43:04.568Z",
+    "dead": 1,
+    "id": "z0KDu61I2qPILneW2Lih",
+    "infected": 7,
+    "recovered": 2,
     "sick": 4
   },
   {
-    "longitude": -66.4619,
-    "name": "New Brunswick",
-    "country": "CA",
     "lastUpdated": "2020-03-27T05:54:02.307Z",
     "dead": 0,
     "id": "z1Vx0y33oMGoeJSuS8Ui",
@@ -4685,22 +4682,26 @@
     "recovered": 0,
     "latitude": 46.5653,
     "pop": 776827,
+    "longitude": -66.4619,
+    "name": "New Brunswick",
+    "country": "CA",
     "sick": 33
   },
   {
-    "lastUpdated": "2020-03-27T05:43:03.433Z",
-    "dead": 34,
-    "id": "zC03Urt1iJJb2Tf6p0jd",
-    "infected": 1403,
     "recovered": 3,
     "latitude": -1.831239,
     "pop": 16620000,
     "longitude": -78.183403,
     "name": "Ecuador",
     "country": "EC",
+    "lastUpdated": "2020-03-27T05:43:03.433Z",
+    "dead": 34,
+    "id": "zC03Urt1iJJb2Tf6p0jd",
+    "infected": 1403,
     "sick": 1366
   },
   {
+    "id": "zvdC0u72Bk5YKNaazZFZ",
     "infected": 1045,
     "recovered": 88,
     "latitude": 15.870032,
@@ -4710,7 +4711,6 @@
     "country": "TH",
     "lastUpdated": "2020-03-27T05:43:03.446Z",
     "dead": 4,
-    "id": "zvdC0u72Bk5YKNaazZFZ",
     "sick": 953
   },
   {
